@@ -59,7 +59,47 @@ public class script extends IteratingVUserScript {
 		oracleFinancialsLibrary.forms_selectNavigator_function("Journals");
 		oracleFinancialsLibrary.forms_selectNavigator_function("Journals|Post");
 		
+		oracleFinancialsLibrary.forms_clickButton("***CHANGE_ME_FIND_BUTTON***");
 		
+		// TO DO: Find row with Period = Apr-17 && Batch = MTCashMgmtToGL01 Payables A 7155737 71521843
+		
+		oracleFinancialsLibrary.forms_clickButton("***CHANGE_ME_REVIEW_BATCH***");
+		oracleFinancialsLibrary.forms_clickButton("***CHANGE_ME_JOURNALS***");
+		
+		oracleFinancialsLibrary.forms_closeWindow("***CHANGE_ME_JOURNALS_WINDOW***");
+		oracleFinancialsLibrary.forms_closeWindow("***CHANGE_ME_BATCH_WINDOW***");
+		
+		// TO DO: Find row with Period = Apr-17 && Batch = Payables A 7153738 71508855
+		
+		oracleFinancialsLibrary.forms_clickButton("***CHANGE_ME_REVIEW_BATCH***");
+		oracleFinancialsLibrary.forms_clickButton("***CHANGE_ME_JOURNALS***");
+		
+		oracleFinancialsLibrary.forms_closeWindow("***CHANGE_ME_JOURNALS_WINDOW***");
+		oracleFinancialsLibrary.forms_closeWindow("***CHANGE_ME_BATCH_WINDOW***");
+		
+		oracleFinancialsLibrary.forms_clickButton("***CHANGE_ME_LINE_DRILLDOWN***");
+		
+		// TO DO: Make an assert on opened web page
+		
+		oracleFinancialsLibrary.forms_closeWindow("***CHANGE_ME_JOURNALS_WINDOW***");
+		oracleFinancialsLibrary.forms_closeWindow("***CHANGE_ME_BATCH_WINDOW***");
+		
+		// TO DO: Tick the checkboxes of the 4 rows
+		
+		oracleFinancialsLibrary.forms_clickButton("***CHANGE_ME_POST***");
+		oracleFinancialsLibrary.forms_clickButton("***CHANGE_ME_OK***");
+		
+		oracleFinancialsLibrary.forms_closeWindow("***CHANGE_ME_FIND_JOURNALS_WINDOW***");
+		
+		oracleFinancialsLibrary.forms_selectNavigator_function("Other");
+		oracleFinancialsLibrary.forms_selectNavigator_function("Other|Requests");
+		oracleFinancialsLibrary.forms_clickButton(Forms_Find_Requests.FIND_BUTTON);	
+		
+		req_id = oracleFinancialsLibrary.forms_getSubmitRequestIDByIndex(Forms_Requests.JOB_JD, 0) ;
+		this.getLogger().info("request id : " + req_id) ;
+		oracleFinancialsLibrary.forms_waitForStatusChangedByRequestID(Forms_Requests.JOB_PHASE_STATUS, req_id, 120, 10, "Completed") ;
+		
+		oracleFinancialsLibrary.forms_closeWindow("JOBS");
 	}
 
 	public void finish() throws Exception {
