@@ -1,0 +1,6 @@
+5252,0,02_CORP_Reconcile_Payments,5/02/2017 18:25:02 PM,Failed,5/02/2017 18:24:56 PM,basic.step,AP_Cash_Management,,,
+"Page",Record ID,Playback Time (sec),Result,"Summary",Type,
+"Initialize Total (sec)",,4945,Failed,"OpenScript is unable to connect to the browser, please check the OpenScript browser add-on.",basic.init,
+"Launch Browser: InternetExplorer 11.0.9600.18638",,0,Passed,"",basic.step,
+"Close Browser",,2212,Passed,"",basic.step,
+"Finish Total (sec)",,56,Passed,"",basic.finish,

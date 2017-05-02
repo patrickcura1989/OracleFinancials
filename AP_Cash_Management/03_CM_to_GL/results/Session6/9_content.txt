@@ -1,0 +1,216 @@
+<HTML lang=en-US-ORACLE9I style="VISIBILITY: visible" dir=ltr><HEAD><TITLE>Login</TITLE>
+<META name=generator content="Oracle UIX"><LINK rel=stylesheet type=text/css href="/OA_HTML/cabo/styles/cache/swanEXTN-custom-2_3_6_9-en-ie-windows.css" charset=UTF-8>
+<SCRIPT>var _UixWindowOpenError='A popup window blocker has been detected in your browser. Popup blockers interfere with the operation of this application. Please disable your popup blocker or allow popups from this site.';</SCRIPT>
+
+<SCRIPT src="/OA_HTML/cabo/jsLibs/Common2_3_6_9.js"></SCRIPT>
+
+<SCRIPT>_defaultTZ()</SCRIPT>
+
+<SCRIPT language=javascript src="/OA_HTML/cabo/oajsLibs/oafcoreR121.js"></SCRIPT>
+
+<SCRIPT language=javascript src="/OA_HTML/cabo/oajsLibs/oafb.js"></SCRIPT>
+
+<SCRIPT language=javascript src="/OA_HTML/cabo/oajsLibs/OAFSlideoutMenu.js"></SCRIPT>
+</HEAD>
+<BODY class=xk onload=_checkLoad(event) style="MARGIN-LEFT: 0px; MARGIN-TOP: 0px; MARGIN-RIGHT: 0px" onunload=_checkUnload(event) onbeforeunload=_savePageStateIE()><IFRAME id=_pprIFrame title="" style="POSITION: absolute; TOP: -100px; VISIBILITY: hidden" height=0 longDesc=# src="/OA_HTML/cabo/images/swan/t.htm" frameBorder=0 width=0 name=_pprIFrame></IFRAME>
+<DIV onclick="return _pprConsumeClick(event);" onkeypress="return false;" onkeyup="return false;" id=_pprBlockingDiv onkeydown="return false;" style="CURSOR: wait; HEIGHT: 0px; WIDTH: 0px; POSITION: absolute; LEFT: 0px; TOP: 0px"></DIV>
+<DIV id=_uixDownload class=x3f style="BEHAVIOR: url(#default#download)"></DIV>
+<SCRIPT>var _cachedLibs;</SCRIPT>
+
+<SCRIPT>var _pprFirstClickPass=true;</SCRIPT>
+<SPAN id=_pprPageContent>
+<FORM id=DefaultFormName style="MARGIN: 0px" method=post name=DefaultFormName action=/OA_HTML/OA.jsp?page=/oracle/apps/fnd/sso/login/webui/MainLoginPG&amp;_ri=0&amp;_ti=1234673275&amp;language_code=US&amp;requestUrl=&amp;oapc=2&amp;oas=A9mQStN_PnIUXOqjJ3jtGQ..><INPUT id=_AM_TX_ID_FIELD type=hidden value=1yPzY3VGD name=_AM_TX_ID_FIELD><INPUT id=_FORM type=hidden value=DefaultFormNamecchb0uBI name=_FORM><SPAN id=lovHFCId></SPAN><SPAN id=MainRN class=x9i><A href="#TheContent"><IMG border=0 alt="Skip navigation elements to page contents" src="/OA_HTML/cabo/images/swan/t.gif"></A>
+<TABLE role=presentation class=x6u style="BACKGROUND-IMAGE: url(/OA_HTML/cabo/images/swan/headerBg.jpg)" cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD>
+<SCRIPT>var _tURL="\x2FOA_HTML\x2Fcabo\x2Fimages\x2Fswan\x2Ft.gif";var _axm=1;t('10','10')</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=10 height=10></TD></TR>
+<TR>
+<TD>
+<TABLE role=presentation style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px" cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD vAlign=top noWrap><IMG border=0 alt="Oracle Logo" src="/OA_MEDIA/FNDSSCORP.gif" width=155 height=20></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD>
+<SCRIPT>t('10','10')</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=10 height=10></TD></TR></TBODY></TABLE>
+<TABLE role=presentation cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD width="100%">
+<TABLE role=presentation class=x73 style="BACKGROUND-IMAGE: url(/OA_HTML/cabo/images/swan/navBarUnderTopTabsBg.gif)" cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<DIV class=x6t style="HEIGHT: auto"><A id=TheContent class=xh name=TheContent></A>
+<TABLE role=presentation id=FwkErrorBeanId cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD></TD></TR></TBODY></TABLE>
+<DIV></DIV>
+<DIV></DIV>
+<DIV class=x7x>
+<TABLE role=presentation cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR vAlign=top>
+<TD></TD>
+<TD noWrap align=right></TD></TR></TBODY></TABLE>
+<DIV></DIV><NOSCRIPT></NOSCRIPT>
+<DIV></DIV>
+<TABLE role=presentation id=LoginRN class=x9g cellSpacing=0 cellPadding=0 width="100%" align=center summary="" border=0>
+<TBODY>
+<TR id=region3login class=LoginBgImg vAlign=top>
+<TD id=region4login vAlign=top><IMG id=item2login border=0 name=item2login alt="toplines image" src="/OA_MEDIA/topLines.gif"></TD>
+<TD id=region5login vAlign=top colSpan=2><IMG id=item3login border=0 name=item3login alt="people image" src="/OA_MEDIA/people.jpg"></TD>
+<TD id=region22 vAlign=top>
+<SCRIPT id=item6>t()</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif"></TD></TR>
+<TR id=region7 vAlign=top>
+<TD id=region8 vAlign=top><IMG id=item4 border=0 name=item4 alt="globalTop image" src="/OA_MEDIA/globalTop.jpg"></TD>
+<TD id=region13 class=LoginBinBg height=180 width="100%" colSpan=3><SPAN id=MainLoginRN>
+<TABLE role=presentation id=region144 class=x9l cellSpacing=0 cellPadding=0 width="100%" align=left summary="" border=0>
+<TBODY>
+<TR id=region152>
+<TD id=region153></TD>
+<TD id=region154>
+<SCRIPT id=item13>t('1','20')</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=1 height=20></TD></TR>
+<TR id=region145 align=left>
+<TD id=region146 align=left>
+<SCRIPT id=item12>t('40','10')</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=40 height=10></TD>
+<TD id=region147 align=left>
+<TABLE role=presentation id=region14 cellSpacing=0 cellPadding=0 align=left summary="" border=0>
+<TBODY>
+<TR id=region15 align=left>
+<TD id=region121 vAlign=top></TD>
+<TD id=region21 vAlign=top><SPAN class=x9j><SPAN title=Required class=xg>*</SPAN>&nbsp;<LABEL for=unamebean>User Name</LABEL></SPAN>
+<SCRIPT>t('10','5')</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=10 height=5></TD>
+<TD id=region31>
+<TABLE role=presentation id=unamebean__xc_ cellSpacing=0 cellPadding=0 summary="" border=0>
+<TBODY>
+<TR>
+<TD noWrap align=right></TD>
+<TD></TD>
+<TD vAlign=top noWrap><INPUT onchange="" onkeypress="return _submitOnEnter(event, 'DefaultFormName');" id=unamebean title="*User Name" class=.LoginText name=usernameField autocomplete="off">
+<SCRIPT>t('5')</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=5></TD></TR>
+<TR>
+<TD colSpan=2></TD>
+<TD><SPAN class=x2v>(example: michael.james.smith)</SPAN></TD></TR></TBODY></TABLE></TD></TR>
+<TR id=region41 align=left>
+<TD id=region131 vAlign=top></TD>
+<TD id=region51 vAlign=top><SPAN class=x9j><SPAN title=Required class=xg>*</SPAN>&nbsp;<LABEL for=pwdbean>Password</LABEL></SPAN>
+<SCRIPT>t('10','5')</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=10 height=5></TD>
+<TD id=region61>
+<TABLE role=presentation id=pwdbean__xc_ cellSpacing=0 cellPadding=0 summary="" border=0>
+<TBODY>
+<TR>
+<TD noWrap align=right></TD>
+<TD></TD>
+<TD vAlign=top noWrap><INPUT onchange="" id=pwdbean title=*Password class=.LoginText type=password value="" name=passwordField autocomplete="off">
+<SCRIPT>t('5')</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=5></TD></TR>
+<TR>
+<TD colSpan=2></TD>
+<TD><SPAN class=x2v>(example: 4u99v23)</SPAN></TD></TR></TBODY></TABLE></TD></TR>
+<TR id=region132 align=left>
+<TD id=region139></TD>
+<TD id=region138></TD>
+<TD id=region133><BUTTON onclick="submitForm('DefaultFormName',1,{'_FORM_SUBMIT_BUTTON':'SubmitButtonb1YYyp_Z'});return false" id=SubmitButton title=Login class=x7n style="BACKGROUND-IMAGE: url(/OA_HTML/cabo/images/swan/btn-bg1.gif)" type=submit>Login</BUTTON>
+<SCRIPT id=item11>t('2','1')</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=2 height=1><BUTTON onclick="submitForm('DefaultFormName',0,{'_FORM_SUBMIT_BUTTON':'CancelV3Ze70rR'});return false" id=Cancel title=Cancel class=x7n style="BACKGROUND-IMAGE: url(/OA_HTML/cabo/images/swan/btn-bg1.gif)" type=submit>Cancel</BUTTON></TD></TR>
+<TR id=region134>
+<TD id=region135>
+<SCRIPT id=spacer114>t('1','10')</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=1 height=10></TD></TR>
+<TR id=RegisterHereUrlRowLayoutRN1>
+<TD id=region142></TD>
+<TD id=region143></TD>
+<TD id=Cell31RN1></TD></TR>
+<TR id=region136>
+<TD id=region137>
+<SCRIPT id=spacer1131>t('1','10')</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=1 height=10></TD></TR>
+<TR id=region148>
+<TD id=region149></TD>
+<TD id=region150 class=.LoginText><SPAN class=x9j>Accessibility</SPAN></TD>
+<TD id=region151>
+<TABLE role=presentation id=Accessibility__xc_ cellSpacing=0 cellPadding=0 summary="" border=0>
+<TBODY>
+<TR>
+<TD noWrap align=right></TD>
+<TD></TD>
+<TD vAlign=top noWrap><SELECT onchange="" id=Accessibility title=Accessibility class=x9o name=Accessibility><OPTION selected value=NZGUAmYXg>None</OPTION><OPTION value=SS3n39AGr>Screen Reader Optimized</OPTION><OPTION value=YL_rwJPXy>Standard Accessibility</OPTION></SELECT><LABEL class=x3f for=Accessibility>Accessibility</LABEL>
+<SCRIPT>t('5')</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=5></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></SPAN></TD></TR>
+<TR id=region11>
+<TD id=region12><IMG id=item5 border=0 name=item5 alt="global image" src="/OA_MEDIA/global.jpg"></TD>
+<TD id=region15login class=x9h colSpan=3>
+<TABLE role=presentation id=langOptionsTable class=x9h cellSpacing=0 cellPadding=0 align=left summary="" border=0>
+<TBODY>
+<TR id=region4>
+<TD id=region5>
+<SCRIPT id=item3>t('1','2')</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=1 height=2></TD></TR>
+<TR id=region1>
+<TD id=region3>
+<SCRIPT id=item2>t('100','1')</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=100 height=1></TD>
+<TD id=region2 colSpan=3><SPAN class=x9j>Select a Language:</SPAN></TD></TR>
+<TR align=left>
+<TD>
+<SCRIPT>t('100','1')</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=100 height=1></TD>
+<TD align=left><IMG border=0 alt="American English" src="/OA_MEDIA/nlsus_a.gif"></TD>
+<TD>
+<SCRIPT>t('10','1')</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=10 height=1></TD></TR></TBODY></TABLE></TD></TR>
+<TR id=region23 vAlign=top>
+<TD id=region241 class=x9g vAlign=top align=center>
+<SCRIPT id=item71>t()</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif"></TD>
+<TD id=region24 class=x9h vAlign=top colSpan=3 align=center>
+<SCRIPT id=item7>t()</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif"></TD></TR></TBODY></TABLE>
+<DIV></DIV><INPUT id=_fwkAbsolutePageName type=hidden value=/oracle/apps/fnd/sso/login/webui/MainLoginPG:::aUAMuc0D name=_fwkAbsolutePageName>
+<DIV>
+<DIV>
+<SCRIPT>t(1,9)</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=1 height=9></DIV>
+<DIV>
+<SCRIPT>t(1,10)</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=1 height=10></DIV></DIV></DIV>
+<DIV></DIV>
+<DIV></DIV>
+<DIV></DIV></DIV>
+<TABLE role=presentation class=x70 style="BACKGROUND-IMAGE: url(/OA_HTML/cabo/images/swan/footerBg.gif)" cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE role=presentation cellSpacing=2 cellPadding=2 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD class=x14 noWrap align=left><A onclick="submitForm('DefaultFormName',0,{'serverValidate':'1M2oa06Qi',event:'about'});return false;" href="#">About this Page</A></TD>
+<TD>
+<SCRIPT>t('10','10')</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=10 height=10></TD>
+<TD class=x13 noWrap align=left><A title="Privacy Statement" href="http://personalize.this.link" target=_blank>Privacy Statement</A></TD>
+<TD class=x12 width="100%" noWrap align=right><SPAN id=N16>Copyright (c) 2006, Oracle. All rights reserved.</SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></SPAN><INPUT id=SubmitButton$$unvalidated type=hidden value=falseMv-yM73P name=SubmitButton$$unvalidated><INPUT id=SubmitButton$$serverUnvalidated type=hidden value=falseCx0-UmIT name=SubmitButton$$serverUnvalidated><INPUT id=SubmitButton$$processFormDataCalled type=hidden value=true94X4rWvC name=SubmitButton$$processFormDataCalled><INPUT id=Cancel$$unvalidated type=hidden value=trueYOVsUDVK name=Cancel$$unvalidated><INPUT id=Cancel$$serverUnvalidated type=hidden value=true4UYTqKqz name=Cancel$$serverUnvalidated><INPUT id=Cancel$$processFormDataCalled type=hidden value=truexNIFfZ_R name=Cancel$$processFormDataCalled><INPUT id=FORM_MAC_LIST type=hidden value=Cancel$$serverUnvalidated^Accessibility^_fwkAbsolutePageName^SubmitButton$$processFormDataCalled^_FORM_SUBMIT_BUTTON^evtSrcRowId^_AM_TX_ID_FIELD^Cancel$$processFormDataCalled^Cancel$$unvalidated^evtSrcRowIdx^SubmitButton$$unvalidated^SubmitButton$$serverUnvalidated^_FORM^serverValidate^_FORMEVENT***@@@FORM_MAC_LIST***@@@event^passwordField^usernameField^FORM_MAC_LISTJCZoWVjXI9xNql3hk-XaJg.. name=FORM_MAC_LIST><SPAN id=_DefaultFormName_Postscript><INPUT type=hidden name=_FORMEVENT><INPUT type=hidden name=serverValidate><INPUT type=hidden name=evtSrcRowIdx><INPUT type=hidden name=evtSrcRowId><INPUT type=hidden name=_FORM_SUBMIT_BUTTON><INPUT type=hidden name=event><INPUT type=hidden name=source>
+<SCRIPT>var _resetDefaultFormNameNames=["_FORMEVENT","serverValidate","evtSrcRowIdx","evtSrcRowId","_FORM_SUBMIT_BUTTON","event","source"];</SCRIPT>
+
+<SCRIPT>function _DefaultFormNameValidater(form){return true;}function _submitOnEnter(e,frm){return (_getKC(e)!=13);}</SCRIPT>
+</SPAN>
+<SCRIPT>_submitFormCheck();</SCRIPT>
+</FORM><IFRAME title="Forms Launcher" height=5 src="https://app-layer-oracleebs-test.ds.acc.co.nz:4475/OA_HTML/blank.html" frameBorder=no width=5 name=formsLauncher scrolling=no></IFRAME></SPAN><INPUT disabled id=_pprSaveLib type=hidden><INPUT disabled id=_pprSaveScript type=hidden><INPUT disabled id=_pprSavePage type=hidden>
+<SCRIPT>var _uixDoneMessage="Done."</SCRIPT>
+
+<SCRIPT>document.body.style.marginLeft="0px";document.body.style.marginRight="0px";document.body.style.marginTop="0px";</SCRIPT>
+<!-- Created by Oracle UIX , laf:swanEXTN (swanEXTN) --> </BODY></HTML>

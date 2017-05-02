@@ -1,0 +1,6 @@
+5112,1,OracleFinancialsLibrary,3/28/2017 15:26:35 PM,Passed,3/28/2017 15:26:29 PM,basic.step,OracleFinancials,,,,
+"Page",Record ID,Playback Time (sec),Result,"Summary",Type,
+"Initialize Total (sec)",,4656,Passed,"",basic.init,
+"Launch Browser: InternetExplorer 11.0.9600.18617",,4013,Passed,"",basic.step,
+"Iteration Total (sec)",,125,Passed,"",basic.iteration,
+"Finish Total (sec)",,76,Passed,"",basic.finish,

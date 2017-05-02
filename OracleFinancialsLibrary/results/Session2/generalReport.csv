@@ -1,0 +1,5 @@
+737,1,OracleFinancialsLibrary,3/15/2017 10:44:30 AM,Passed,3/15/2017 10:44:28 AM,basic.step,OracleFinancials,,,,
+"Page",Record ID,Playback Time (sec),Result,"Summary",Type,
+"Initialize Total (sec)",,356,Passed,"",basic.init,
+"Iteration Total (sec)",,84,Passed,"",basic.iteration,
+"Finish Total (sec)",,83,Passed,"",basic.finish,

@@ -1,0 +1,3160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model _object_hashcode_="15425262">
+	<element type="oracle.oats.scripting.models.RecordedElement" id="1" _field_name_="root" _object_hashcode_="2319442">
+		<java.util.ArrayList _field_name_="problems" _object_hashcode_="21482178"/>
+		<java.util.HashMap _field_name_="attrs" _object_hashcode_="5292462"/>
+		<java.util.ArrayList _field_name_="children" _object_hashcode_="31178518">
+			<collectionItem _field_name_="entry39" _object_hashcode_="31948381">
+				<int _field_name_="keyObject" _object_hashcode_="22147629">39</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="42" _field_name_="valueObject" _object_hashcode_="15896316">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="9010258"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="4263589">
+						<collectionItem _field_name_="entry0" _object_hashcode_="18430145">
+							<string _field_name_="keyObject" _object_hashcode_="7925724">objectClassName</string>
+							<literal _field_name_="valueObject" _object_hashcode_="30112438">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="14489306">
+							<string _field_name_="keyObject" _object_hashcode_="3453657">tsBegin</string>
+							<literal _field_name_="valueObject" _object_hashcode_="30002398">1493707174864</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="17259334">
+							<string _field_name_="keyObject" _object_hashcode_="3353933">recid</string>
+							<literalInt _field_name_="valueObject" _object_hashcode_="31674547">42</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="33116727">
+							<string _field_name_="keyObject" _object_hashcode_="1763538">path</string>
+							<literal _field_name_="valueObject" _object_hashcode_="11235742">//forms:textField[(@name=&apos;INV_SUM_FOLDER_INVOICE_NUM_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="25478656">
+							<string _field_name_="keyObject" _object_hashcode_="27121660">methodName</string>
+							<literal _field_name_="valueObject" _object_hashcode_="30339483">click</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="31671142">
+							<string _field_name_="keyObject" _object_hashcode_="15803637">tsEnd</string>
+							<literal _field_name_="valueObject" _object_hashcode_="28409194">1493707174864</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="27325558"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry34" _object_hashcode_="22929288">
+				<int _field_name_="keyObject" _object_hashcode_="6605362">34</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="37" _field_name_="valueObject" _object_hashcode_="18270209">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="10807654"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="14100709">
+						<collectionItem _field_name_="entry6" _object_hashcode_="33454385">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="8640986">verifyText</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry7" _object_hashcode_="29798444">
+							<string _field_name_="keyObject" _object_hashcode_="8721078">matchOption</string>
+							<oracle.oats.scripting.models.expressions.EnumExpression m_intValue="0" _field_name_="valueObject" _object_hashcode_="9399038"/>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry8" _object_hashcode_="20333583">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="6849588">1493707149087</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="28196253">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="33080261">StatusBar</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="5181255">
+							<string _field_name_="keyObject" _object_hashcode_="27439561">testName</string>
+							<literal _field_name_="valueObject" _object_hashcode_="4600876">FormsFT AutoValidation: Verify StatusBar text value</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="7613077">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="21889143">1493707149087</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="9948587">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="2198248">37</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="4181049">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="22038274">//forms:statusBar</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="7912593">
+							<string _field_name_="keyObject" _object_hashcode_="16412731">statusText</string>
+							<literal _field_name_="valueObject" _object_hashcode_="31353448">FRM-40301:Query caused no records to be retrieved. Re-enter.</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="18616672"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry33" _object_hashcode_="10750252">
+				<int _field_name_="keyObject" _object_hashcode_="16163127">33</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="36" _field_name_="valueObject" _object_hashcode_="30560655">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="15246866"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="32438956">
+						<collectionItem _field_name_="entry6" _object_hashcode_="22433801">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="25841732">1493707149040</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="27310599">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="32973143">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="18167268">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="8428863">1493707149040</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="25501902">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="25768854">36</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="19713217">
+							<string _field_name_="keyObject" _object_hashcode_="7396927">value</string>
+							<literal _field_name_="valueObject" _object_hashcode_="992353">EXECUTE_QUERY</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="3586684">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="5417671">//forms:textField[(@name=&apos;INV_SUM_FOLDER_INVOICE_NUM_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="17645497">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="2809973">invokeSoftKey</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="16146953"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry0" _object_hashcode_="13800301">
+				<int _field_name_="keyObject" _object_hashcode_="2036529">0</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.webdom.modelElements.recorded.RecordedDOMElement" id="2" _field_name_="valueObject" _object_hashcode_="2437510">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="30828276"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="16850986">
+						<collectionItem _field_name_="entry6" _object_hashcode_="13441312">
+							<string _field_name_="keyObject" _object_hashcode_="12477044">windowIndex</string>
+							<literalInt _field_name_="valueObject" _object_hashcode_="20036714">0</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry7" _object_hashcode_="19707795">
+							<string _field_name_="keyObject" _object_hashcode_="2845996">ElementTag</string>
+							<literal _field_name_="valueObject" _object_hashcode_="17597335"/>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry8" _object_hashcode_="13123476">
+							<string _field_name_="keyObject" _object_hashcode_="26665527">FrameUniqueID</string>
+							<literal _field_name_="valueObject" _object_hashcode_="14521857">0</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="12993617">
+							<string _field_name_="keyObject" _object_hashcode_="25794189">IsUserTyped</string>
+							<literal _field_name_="valueObject" _object_hashcode_="33243473">False</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry9" _object_hashcode_="11477564">
+							<string _field_name_="keyObject" _object_hashcode_="23589187">Title</string>
+							<literal _field_name_="valueObject" _object_hashcode_="17862517">Oracle Applications Home Page</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="32554656">
+							<string _field_name_="keyObject" _object_hashcode_="27020102">TimeStamp</string>
+							<literal _field_name_="valueObject" _object_hashcode_="1177352">0</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="7545959">
+							<string _field_name_="keyObject" _object_hashcode_="828194">Url</string>
+							<literal _field_name_="valueObject" _object_hashcode_="27927231">https://app-layer-oracleebs-test.ds.acc.co.nz:4475/OA_HTML/OA.jsp?OAFunc=OAHOMEPAGE##</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry11" _object_hashcode_="22737070">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="23392517">1493707030431</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="24066415">
+							<string _field_name_="keyObject" _object_hashcode_="15806733">Method</string>
+							<literal _field_name_="valueObject" _object_hashcode_="13331126">Get</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry10" _object_hashcode_="19120855">
+							<string _field_name_="keyObject" _object_hashcode_="3918139">AppType</string>
+							<literal _field_name_="valueObject" _object_hashcode_="18370821">HTML</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="13428263">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="23678704">1493707030431</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="1718794">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="11314422">/web:window[@index=&apos;0&apos; or @title=&apos;Oracle Applications Home Page&apos;]</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="8536578"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry32" _object_hashcode_="30961352">
+				<int _field_name_="keyObject" _object_hashcode_="17667127">32</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="35" _field_name_="valueObject" _object_hashcode_="8251403">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="873859"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="23664324">
+						<collectionItem _field_name_="entry6" _object_hashcode_="5317102">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="1058052">1493707148770</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="9089343">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="12105643">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="24815246">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="21456299">1493707148770</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="21810953">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="8669489">35</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="28079426">
+							<string _field_name_="keyObject" _object_hashcode_="23563544">value</string>
+							<literal _field_name_="valueObject" _object_hashcode_="23093222">MT INVIOCE</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="21393959">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="32750195">//forms:textField[(@name=&apos;INV_SUM_FOLDER_INVOICE_NUM_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="32530200">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="27734520">setText</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="29472398"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry1" _object_hashcode_="32718169">
+				<int _field_name_="keyObject" _object_hashcode_="3871025">1</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedWindowChangeElement" id="4" _field_name_="valueObject" _object_hashcode_="31834817">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="22353429"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="18660968">
+						<collectionItem _field_name_="entry0" _object_hashcode_="4235548">
+							<string _field_name_="keyObject" _object_hashcode_="24996994">title</string>
+							<literal _field_name_="valueObject" _object_hashcode_="22994965">Reconcile Bank Statements</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="17909724">
+							<string _field_name_="keyObject" _object_hashcode_="8383723">screenshot</string>
+							<literal _field_name_="valueObject" _object_hashcode_="10185163">C:\\Users\\kumarma\\AppData\\Local\\Temp\\4\\OSFFSS\\screen1493707035222.jpg</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="25478206">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="8725016">1493707035440</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="24108779">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="28753284">1493707035440</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="5528667"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry31" _object_hashcode_="26496622">
+				<int _field_name_="keyObject" _object_hashcode_="33223614">31</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="34" _field_name_="valueObject" _object_hashcode_="9990188">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="32277527"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="13907265">
+						<collectionItem _field_name_="entry0" _object_hashcode_="27868805">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="2961828">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="4704796">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="2816678">1493707142950</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="19272232">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="33202777">34</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="7479419">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="14453676">//forms:textField[(@name=&apos;INV_SUM_FOLDER_INVOICE_NUM_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="11704999">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="2638847">click</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="29847354">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="352330">1493707142950</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="16033957"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry38" _object_hashcode_="5729440">
+				<int _field_name_="keyObject" _object_hashcode_="22189176">38</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="41" _field_name_="valueObject" _object_hashcode_="9524745">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="27756790"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="1108741">
+						<collectionItem _field_name_="entry6" _object_hashcode_="27037969">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="15721452">1493707174178</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="33027313">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="12060059">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="32639119">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="12601506">1493707174178</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="17825517">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="5132034">41</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="19506754">
+							<string _field_name_="keyObject" _object_hashcode_="21452706">value</string>
+							<literal _field_name_="valueObject" _object_hashcode_="13273301">MT INVIOCE3</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="23225808">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="29748330">//forms:textField[(@name=&apos;INV_SUM_FOLDER_INVOICE_NUM_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="17449094">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="6079045">setText</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="30821768"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry37" _object_hashcode_="1200970">
+				<int _field_name_="keyObject" _object_hashcode_="6647399">37</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="40" _field_name_="valueObject" _object_hashcode_="20147461">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="20610700"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="21642191">
+						<collectionItem _field_name_="entry0" _object_hashcode_="18493369">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="8104958">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="3351675">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="13076249">1493707162807</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="27268531">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="24254301">40</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="15781079">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="1694089">//forms:textField[(@name=&apos;INV_SUM_FOLDER_INVOICE_NUM_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="18375378">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="28214724">click</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="33542069">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="27025306">1493707162807</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="21527651"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry36" _object_hashcode_="27103961">
+				<int _field_name_="keyObject" _object_hashcode_="2200520">36</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="39" _field_name_="valueObject" _object_hashcode_="7166622">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="22573217"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="21662971">
+						<collectionItem _field_name_="entry0" _object_hashcode_="1306795">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="30115722">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="18718965">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="19585760">1493707162227</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="3299135">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="15321969">39</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="16650548">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="19018595">//forms:textField[(@name=&apos;INV_SUM_FOLDER_INVOICE_NUM_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="1807202">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="5364824">click</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="6897511">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="22242296">1493707162227</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="29911534"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry35" _object_hashcode_="29470332">
+				<int _field_name_="keyObject" _object_hashcode_="4613415">35</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="38" _field_name_="valueObject" _object_hashcode_="26930909">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="12067918"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="22525093">
+						<collectionItem _field_name_="entry0" _object_hashcode_="10908856">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="6507372">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="3736145">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="5259073">1493707161479</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="13062266">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="2441224">38</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="24413771">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="12589192">//forms:textField[(@name=&apos;INV_SUM_FOLDER_INVOICE_NUM_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="18663820">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="21597560">click</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="16005680">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="32432708">1493707161479</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="4783648"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry30" _object_hashcode_="1591469">
+				<int _field_name_="keyObject" _object_hashcode_="15434880">30</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="33" _field_name_="valueObject" _object_hashcode_="4728669">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="17856761"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="7749549">
+						<collectionItem _field_name_="entry6" _object_hashcode_="4953735">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="30946740">1493707139748</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="8892572">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="30839030">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="6028837">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="7625179">1493707139748</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="25846691">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="21499661">33</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="9663369">
+							<string _field_name_="keyObject" _object_hashcode_="18854561">value</string>
+							<literal _field_name_="valueObject" _object_hashcode_="554743">ENTER_QUERY</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="8792503">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="16459543">//forms:textField[(@name=&apos;INV_SUM_FOLDER_INVOICE_NUM_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="1893642">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="18805642">invokeSoftKey</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="17245727"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry70" _object_hashcode_="16851652">
+				<int _field_name_="keyObject" _object_hashcode_="8736189">70</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="73" _field_name_="valueObject" _object_hashcode_="28504085">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="11536406"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="14872100">
+						<collectionItem _field_name_="entry0" _object_hashcode_="26323396">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="9793337">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="2143988">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="31249045">1493707318990</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="30108937">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="18008199">73</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="6526432">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="21551">//forms:textField[(@name=&apos;CALENDAR_CELL38_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="308406">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="8609732">click</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="16000792">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="27719591">1493707318990</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="13432265"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry73" _object_hashcode_="20108977">
+				<int _field_name_="keyObject" _object_hashcode_="9222461">73</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="76" _field_name_="valueObject" _object_hashcode_="13988832">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="27949991"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="27020619">
+						<collectionItem _field_name_="entry6" _object_hashcode_="11350622">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="31504878">1493707323527</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="12972303">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="10383731">ChoiceBox</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="22364261">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="3870892">1493707323527</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="32944596">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="29695458">76</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="18144636">
+							<string _field_name_="keyObject" _object_hashcode_="18783249">value</string>
+							<literal _field_name_="valueObject" _object_hashcode_="9981651">OK</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="14220953">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="13528133">//forms:choiceBox</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="3349075">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="15208165">clickButton</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="19528345"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry72" _object_hashcode_="17136055">
+				<int _field_name_="keyObject" _object_hashcode_="15470234">72</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedWindowChangeElement" id="75" _field_name_="valueObject" _object_hashcode_="28485136">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="28601469"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="4100026">
+						<collectionItem _field_name_="entry0" _object_hashcode_="8002419">
+							<object_reference_element _object_hashcode_="24996994" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="26945020">Note</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="10504031">
+							<object_reference_element _object_hashcode_="8383723" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="13322248">C:\\Users\\kumarma\\AppData\\Local\\Temp\\4\\OSFFSS\\screen1493707323403.jpg</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="11396265">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="1012297">1493707323527</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="8336491">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="4220574">1493707323527</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="1131133"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry71" _object_hashcode_="21662257">
+				<int _field_name_="keyObject" _object_hashcode_="3886168">71</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="74" _field_name_="valueObject" _object_hashcode_="17905923">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="28718369"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="22686785">
+						<collectionItem _field_name_="entry6" _object_hashcode_="11967156">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="15075009">1493707320644</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="6731617">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="31828687">Calendar</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="26307991">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="630020">1493707320644</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="11669185">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="12781374">74</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="31892040">
+							<string _field_name_="keyObject" _object_hashcode_="25745400">value</string>
+							<literal _field_name_="valueObject" _object_hashcode_="18549704">02-05-2017</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="11035255">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="9529817">//forms:calendar</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="14194398">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="20824581">enter</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="26015410"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry43" _object_hashcode_="26801763">
+				<int _field_name_="keyObject" _object_hashcode_="17884018">43</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="46" _field_name_="valueObject" _object_hashcode_="29655059">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="28604651"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="24034134">
+						<collectionItem _field_name_="entry6" _object_hashcode_="22550751">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="8410558">1493707204462</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="13170934">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="32236322">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="5306239">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="4182358">1493707204462</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="27844907">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="30099001">46</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="5704819">
+							<string _field_name_="keyObject" _object_hashcode_="22059562">value</string>
+							<literal _field_name_="valueObject" _object_hashcode_="12143215">ENTER_QUERY</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="15888894">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="18049548">//forms:textField[(@name=&apos;INV_SUM_FOLDER_INVOICE_NUM_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="18480655">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="13272092">invokeSoftKey</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="27748459"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry42" _object_hashcode_="24547188">
+				<int _field_name_="keyObject" _object_hashcode_="14486462">42</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="45" _field_name_="valueObject" _object_hashcode_="3008617">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="32867894"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="4096193">
+						<collectionItem _field_name_="entry0" _object_hashcode_="12848518">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="8999794">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="22281397">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="31312049">1493707204036</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="15993139">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="5106000">45</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="25695381">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="27584694">//forms:textField[(@name=&apos;INV_SUM_FOLDER_INVOICE_NUM_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="16739857">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="1895078">click</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="26430396">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="16891506">1493707204036</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="25059096"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry45" _object_hashcode_="22108618">
+				<int _field_name_="keyObject" _object_hashcode_="28748353">45</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="48" _field_name_="valueObject" _object_hashcode_="23315070">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="7735280"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="16995633">
+						<collectionItem _field_name_="entry6" _object_hashcode_="31326291">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="31859610">1493707216755</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="31947344">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="5598405">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="1003387">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="13111429">1493707216755</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="19602291">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="14057797">48</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="18293452">
+							<string _field_name_="keyObject" _object_hashcode_="17009440">value</string>
+							<literal _field_name_="valueObject" _object_hashcode_="27460671">MT INVOICE4</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="32353215">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="33374215">//forms:textField[(@name=&apos;INV_SUM_FOLDER_INVOICE_NUM_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="10920238">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="18116503">setText</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="11161124"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry44" _object_hashcode_="27255219">
+				<int _field_name_="keyObject" _object_hashcode_="8811723">44</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="47" _field_name_="valueObject" _object_hashcode_="22936658">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="23102146"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="19450562">
+						<collectionItem _field_name_="entry0" _object_hashcode_="26931258">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="524031">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="17931723">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="2486580">1493707208303</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="26124525">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="21335699">47</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="15163865">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="2469680">//forms:textField[(@name=&apos;INV_SUM_FOLDER_INVOICE_NUM_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="13177850">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="10517955">click</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="20877529">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="33319810">1493707208303</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="16137322"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry47" _object_hashcode_="9945671">
+				<int _field_name_="keyObject" _object_hashcode_="23242114">47</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="50" _field_name_="valueObject" _object_hashcode_="23067530">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="8077966"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="5143278">
+						<collectionItem _field_name_="entry0" _object_hashcode_="22283327">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="1553038">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="14865187">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="12355347">1493707228925</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="26467279">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="31909055">50</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="4458063">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="22008201">//forms:textField[(@name=&apos;INV_SUM_FOLDER_INVOICE_NUM_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="33174490">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="10473041">click</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="23213941">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="23443194">1493707228925</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="13624611"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry46" _object_hashcode_="19327542">
+				<int _field_name_="keyObject" _object_hashcode_="26323856">46</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="49" _field_name_="valueObject" _object_hashcode_="9868380">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="31870560"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="19107567">
+						<collectionItem _field_name_="entry6" _object_hashcode_="31112541">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="9810712">1493707217299</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="29776630">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="3644556">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="25024683">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="16474830">1493707217299</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="18609031">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="29221198">49</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="1131631">
+							<string _field_name_="keyObject" _object_hashcode_="3842008">value</string>
+							<literal _field_name_="valueObject" _object_hashcode_="13916812">EXECUTE_QUERY</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="27522642">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="30686578">//forms:textField[(@name=&apos;INV_SUM_FOLDER_INVOICE_NUM_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="25208643">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="22914188">invokeSoftKey</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="14547083"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry49" _object_hashcode_="23410181">
+				<int _field_name_="keyObject" _object_hashcode_="4465106">49</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="52" _field_name_="valueObject" _object_hashcode_="17334240">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="17003433"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="27162742">
+						<collectionItem _field_name_="entry6" _object_hashcode_="29198363">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="16981561">1493707242825</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="3323371">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="1490549">Window</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="21326039">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="32825739">1493707242825</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="31855487">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="15540942">52</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="668497">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="22547660">//forms:window[(@name=&apos;NAVIGATOR&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="28259825">
+							<string _field_name_="keyObject" _object_hashcode_="2162351">active</string>
+							<literalBoolean _field_name_="valueObject" _object_hashcode_="3183417">true</literalBoolean>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="33462123">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="4678834">activate</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="19144392"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry48" _object_hashcode_="25635383">
+				<int _field_name_="keyObject" _object_hashcode_="13187122">48</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="51" _field_name_="valueObject" _object_hashcode_="8946438">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="5390025"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="26751642">
+						<collectionItem _field_name_="entry0" _object_hashcode_="14988532">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="15058746">Window</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="19137992">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="27394202">1493707241421</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="33016992">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="16106479">51</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="26958574">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="22674869">//forms:window[(@name=&apos;INVOICES_SUM_FOLDER_WINDOW&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="7274152">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="27274111">close</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="17879571">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="24115840">1493707241421</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="10942354"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry40" _object_hashcode_="22011639">
+				<int _field_name_="keyObject" _object_hashcode_="7647621">40</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="43" _field_name_="valueObject" _object_hashcode_="20096373">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="842311"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="30321393">
+						<collectionItem _field_name_="entry6" _object_hashcode_="12012973">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="614344">1493707180661</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="5036505">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="4037576">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="24268898">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="19172115">1493707180661</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="33252117">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="18446961">43</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="19277011">
+							<string _field_name_="keyObject" _object_hashcode_="32019407">value</string>
+							<literal _field_name_="valueObject" _object_hashcode_="4203787">MT INVOICE3</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="20690420">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="5330545">//forms:textField[(@name=&apos;INV_SUM_FOLDER_INVOICE_NUM_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="19325779">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="419610">setText</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="5964532"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry41" _object_hashcode_="1480750">
+				<int _field_name_="keyObject" _object_hashcode_="29016622">41</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="44" _field_name_="valueObject" _object_hashcode_="2265411">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="24043371"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="928028">
+						<collectionItem _field_name_="entry6" _object_hashcode_="23137452">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="30968949">1493707181026</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="8846911">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="21023086">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="10345054">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="6253269">1493707181026</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="23814406">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="24321581">44</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="11458508">
+							<string _field_name_="keyObject" _object_hashcode_="289603">value</string>
+							<literal _field_name_="valueObject" _object_hashcode_="1981265">EXECUTE_QUERY</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="14259322">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="6960647">//forms:textField[(@name=&apos;INV_SUM_FOLDER_INVOICE_NUM_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="10686590">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="13689215">invokeSoftKey</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="25458173"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry59" _object_hashcode_="26203664">
+				<int _field_name_="keyObject" _object_hashcode_="21473569">59</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="62" _field_name_="valueObject" _object_hashcode_="28374472">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="14177460"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="10554738">
+						<collectionItem _field_name_="entry0" _object_hashcode_="3068143">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="5911718">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="26680801">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="30461537">1493707280348</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="2805447">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="20675730">62</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="7184971">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="14258177">//forms:textField[(@name=&apos;PAY_SUM_FOLDER_CURRENT_BANK_ACCOUNT_NAME_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="28975760">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="2900052">click</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="20139273">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="9711756">1493707280348</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="16735373"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry57" _object_hashcode_="17212712">
+				<int _field_name_="keyObject" _object_hashcode_="19300597">57</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="60" _field_name_="valueObject" _object_hashcode_="14439786">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="23831978"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="4813566">
+						<collectionItem _field_name_="entry6" _object_hashcode_="21300062">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="20874831">1493707274326</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="31467927">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="14389133">Window</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="30051835">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="1558857">1493707274326</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="19888231">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="32307923">60</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="25815864">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="1407211">//forms:window[(@name=&apos;PAYMENTS_SUM_FOLDER_WINDOW&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="28423316">
+							<string _field_name_="keyObject" _object_hashcode_="9031152">active</string>
+							<literalBoolean _field_name_="valueObject" _object_hashcode_="19883676">true</literalBoolean>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="29780383">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="24840616">activate</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="12000078"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry58" _object_hashcode_="20994854">
+				<int _field_name_="keyObject" _object_hashcode_="32024187">58</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedWindowChangeElement" id="61" _field_name_="valueObject" _object_hashcode_="17430808">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="29404609"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="13602852">
+						<collectionItem _field_name_="entry0" _object_hashcode_="2108632">
+							<object_reference_element _object_hashcode_="24996994" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="32519984">Payments (CORP Payables Manager)</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="6298898">
+							<object_reference_element _object_hashcode_="8383723" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="5612208">C:\\Users\\kumarma\\AppData\\Local\\Temp\\4\\OSFFSS\\screen1493707274123.jpg</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="1361531">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="11683976">1493707274342</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="32697779">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="22890519">1493707274342</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="19393283"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry55" _object_hashcode_="30641670">
+				<int _field_name_="keyObject" _object_hashcode_="1895213">55</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="58" _field_name_="valueObject" _object_hashcode_="9702593">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="30504205"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="6007670">
+						<collectionItem _field_name_="entry6" _object_hashcode_="1142138">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="31548703">1493707272298</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="2781684">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="27280463">Window</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="10453677">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="19860257">1493707272298</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="3948195">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="26856917">58</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="20214462">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="3566966">//forms:window[(@name=&apos;NAVIGATOR&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="5845032">
+							<string _field_name_="keyObject" _object_hashcode_="22387985">active</string>
+							<literalBoolean _field_name_="valueObject" _object_hashcode_="29029083">true</literalBoolean>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="23634082">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="12269784">activate</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="26283810"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry56" _object_hashcode_="654807">
+				<int _field_name_="keyObject" _object_hashcode_="28867458">56</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="59" _field_name_="valueObject" _object_hashcode_="11840583">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="26912570"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="5824517">
+						<collectionItem _field_name_="entry6" _object_hashcode_="33047504">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="21442730">1493707272751</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="2902321">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="32705008">TreeList</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="24735918">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="12963290">1493707272751</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="30717547">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="5738768">59</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="1325856">
+							<string _field_name_="keyObject" _object_hashcode_="24389715">item</string>
+							<literal _field_name_="valueObject" _object_hashcode_="17012802">1. Requests: Submit</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="3528145">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="18104773">//forms:treeList[(@name=&apos;NAVIGATOR_HOTLIST_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="6863516">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="15876375">focusItem</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="9394373"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry19" _object_hashcode_="28531206">
+				<int _field_name_="keyObject" _object_hashcode_="31211173">19</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="22" _field_name_="valueObject" _object_hashcode_="9763842">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="19733220"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="4237512">
+						<collectionItem _field_name_="entry6" _object_hashcode_="31161679">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="30226112">1493707109509</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="16768480">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="17862551">Window</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="4169385">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="12595122">1493707109509</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="13213892">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="735528">22</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="22660900">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="29267544">//forms:window[(@name=&apos;NAVIGATOR&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="18945378">
+							<string _field_name_="keyObject" _object_hashcode_="24011297">active</string>
+							<literalBoolean _field_name_="valueObject" _object_hashcode_="32273048">true</literalBoolean>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="16966622">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="13664365">activate</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="10450579"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry53" _object_hashcode_="12466343">
+				<int _field_name_="keyObject" _object_hashcode_="9724238">53</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="56" _field_name_="valueObject" _object_hashcode_="25196382">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="18662732"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="31262016">
+						<collectionItem _field_name_="entry6" _object_hashcode_="7967934">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="2684117">1493707255665</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="1330001">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="808828">TreeList</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="6081933">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="10509994">1493707255665</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="12252308">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="1391471">56</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="997245">
+							<string _field_name_="keyObject" _object_hashcode_="4252790">item</string>
+							<literal _field_name_="valueObject" _object_hashcode_="5701665">Payments|Entry</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="17040144">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="9361200">//forms:treeList[(@name=&apos;NAVIGATOR_LIST_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="6629523">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="898909">selectItem</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="8472846"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry18" _object_hashcode_="21695417">
+				<int _field_name_="keyObject" _object_hashcode_="25195737">18</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="21" _field_name_="valueObject" _object_hashcode_="7820904">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="13223707"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="19854172">
+						<collectionItem _field_name_="entry6" _object_hashcode_="32420041">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="4889907">1493707091880</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="26764888">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="30035445">Window</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="6760847">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="19266287">1493707091880</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="14255395">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="2930840">21</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="11781760">
+							<string _field_name_="keyObject" _object_hashcode_="25689562">menu</string>
+							<literal _field_name_="valueObject" _object_hashcode_="19607422">File|Switch Responsibility...</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="11337968">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="7949137">//forms:window[(@name=&apos;NAVIGATOR&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="1609461">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="14525471">selectMenu</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="21102875"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry54" _object_hashcode_="5354866">
+				<int _field_name_="keyObject" _object_hashcode_="10892628">54</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="57" _field_name_="valueObject" _object_hashcode_="32972846">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="23186115"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="21428250">
+						<collectionItem _field_name_="entry6" _object_hashcode_="6259147">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="1325895">1493707257868</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="4352225">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="11375886">TreeList</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="32752461">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="19849745">1493707257868</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="10171342">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="22674534">57</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="23476869">
+							<string _field_name_="keyObject" _object_hashcode_="399240">item</string>
+							<literal _field_name_="valueObject" _object_hashcode_="32708108">Payments|Entry|Payments</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="9173154">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="4737641">//forms:treeList[(@name=&apos;NAVIGATOR_LIST_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="24145307">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="21825578">selectItem</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="5438992"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry17" _object_hashcode_="2874592">
+				<int _field_name_="keyObject" _object_hashcode_="13223836">17</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedWindowChangeElement" id="20" _field_name_="valueObject" _object_hashcode_="22023588">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="11507972"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="6754414">
+						<collectionItem _field_name_="entry0" _object_hashcode_="28449835">
+							<object_reference_element _object_hashcode_="24996994" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="2861330">Navigator - CORP Cash Management User</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="5721592">
+							<object_reference_element _object_hashcode_="8383723" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="7038198">C:\\Users\\kumarma\\AppData\\Local\\Temp\\4\\OSFFSS\\screen1493707082567.jpg</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="29363814">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="25332068">1493707082739</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="32605672">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="29402768">1493707082739</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="16206669"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry16" _object_hashcode_="26109495">
+				<int _field_name_="keyObject" _object_hashcode_="28088677">16</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="19" _field_name_="valueObject" _object_hashcode_="9094427">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="9602940"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="33352318">
+						<collectionItem _field_name_="entry6" _object_hashcode_="30990374">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="24203365">1493707082739</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="23323606">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="18207812">Window</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="16987882">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="22874143">1493707082739</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="676271">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="10378171">19</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="24691049">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="25591800">//forms:window[(@name=&apos;NAVIGATOR&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="14813060">
+							<string _field_name_="keyObject" _object_hashcode_="2098696">active</string>
+							<literalBoolean _field_name_="valueObject" _object_hashcode_="7088524">true</literalBoolean>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="22770103">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="17780632">activate</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="3320487"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry6" _object_hashcode_="8834055">
+				<int _field_name_="keyObject" _object_hashcode_="30656714">6</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="9" _field_name_="valueObject" _object_hashcode_="19089865">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="29449457"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="29162796">
+						<collectionItem _field_name_="entry0" _object_hashcode_="29167891">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="15329674">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="28053479">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="6404827">1493707058209</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="21512709">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="22662328">9</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="15100258">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="22256776">//forms:textField[(@name=&apos;LINES_LINE_NUMBER_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="17872622">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="30610881">setFocus</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="5899111">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="23973220">1493707058209</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="29851056"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry15" _object_hashcode_="26577524">
+				<int _field_name_="keyObject" _object_hashcode_="32705623">15</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="18" _field_name_="valueObject" _object_hashcode_="28270131">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="5336131"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="26916444">
+						<collectionItem _field_name_="entry0" _object_hashcode_="11859897">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="10147364">Window</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="15967093">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="16384676">1493707082130</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="24148925">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="31260044">18</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="30142592">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="30417919">//forms:window[(@name=&apos;HEADERS_FOLDER&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="1741723">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="1310438">close</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="13689527">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="5387521">1493707082130</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="18220558"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry7" _object_hashcode_="30697755">
+				<int _field_name_="keyObject" _object_hashcode_="30046515">7</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="10" _field_name_="valueObject" _object_hashcode_="31144853">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="2406202"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="7956189">
+						<collectionItem _field_name_="entry6" _object_hashcode_="4229446">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="11941426">1493707058225</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="16017231">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="20565797">Window</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="27952765">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="3913139">1493707058225</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="6524393">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="27992669">10</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="33159877">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="155463">//forms:window[(@name=&apos;HEADERS&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="12495587">
+							<string _field_name_="keyObject" _object_hashcode_="10787039">active</string>
+							<literalBoolean _field_name_="valueObject" _object_hashcode_="3183430">true</literalBoolean>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="29696138">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="4480465">activate</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="7030144"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry14" _object_hashcode_="14380272">
+				<int _field_name_="keyObject" _object_hashcode_="18446675">14</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedWindowChangeElement" id="17" _field_name_="valueObject" _object_hashcode_="23879600">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="33439332"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="11688162">
+						<collectionItem _field_name_="entry0" _object_hashcode_="30215241">
+							<object_reference_element _object_hashcode_="24996994" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="10513379">Reconcile Bank Statements</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="14785774">
+							<object_reference_element _object_hashcode_="8383723" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="17429185">C:\\Users\\kumarma\\AppData\\Local\\Temp\\4\\OSFFSS\\screen1493707081787.jpg</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="390583">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="18454033">1493707081990</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="21422384">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="14462468">1493707081990</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="2405410"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry8" _object_hashcode_="6968452">
+				<int _field_name_="keyObject" _object_hashcode_="16087552">8</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedWindowChangeElement" id="11" _field_name_="valueObject" _object_hashcode_="1885088">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="7302302"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="21245077">
+						<collectionItem _field_name_="entry0" _object_hashcode_="13808815">
+							<object_reference_element _object_hashcode_="24996994" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="4385362">Bank Statement</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="22303151">
+							<object_reference_element _object_hashcode_="8383723" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="16404117">C:\\Users\\kumarma\\AppData\\Local\\Temp\\4\\OSFFSS\\screen1493707057195.jpg</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="12507563">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="1236694">1493707058225</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="29650178">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="5119218">1493707058225</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="5139620"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry13" _object_hashcode_="13684063">
+				<int _field_name_="keyObject" _object_hashcode_="19335104">13</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="16" _field_name_="valueObject" _object_hashcode_="23973853">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="6943596"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="32267678">
+						<collectionItem _field_name_="entry0" _object_hashcode_="5977898">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="30024979">Window</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="8568627">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="2163047">1493707073301</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="30853171">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="17268151">16</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="32622511">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="24910190">//forms:window[(@name=&apos;HEADERS&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="7126903">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="21125691">close</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="26101473">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="18911337">1493707073301</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="15262253"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry9" _object_hashcode_="30369742">
+				<int _field_name_="keyObject" _object_hashcode_="26573361">9</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="12" _field_name_="valueObject" _object_hashcode_="8996755">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="12205206"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="14670015">
+						<collectionItem _field_name_="entry6" _object_hashcode_="27801484">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="25308973">1493707061205</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="14091699">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="31001566">Window</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="12013076">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="21116204">1493707061205</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="6751082">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="15079260">12</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="17900897">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="16337358">//forms:window[(@name=&apos;LINES&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="11346060">
+							<string _field_name_="keyObject" _object_hashcode_="21118137">active</string>
+							<literalBoolean _field_name_="valueObject" _object_hashcode_="27302248">true</literalBoolean>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="3396078">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="28105947">activate</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="30927416"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry12" _object_hashcode_="1809109">
+				<int _field_name_="keyObject" _object_hashcode_="23190355">12</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedWindowChangeElement" id="15" _field_name_="valueObject" _object_hashcode_="25576864">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="4537964"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="337572">
+						<collectionItem _field_name_="entry0" _object_hashcode_="5384837">
+							<object_reference_element _object_hashcode_="24996994" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="17860896">Bank Statement</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="6658174">
+							<object_reference_element _object_hashcode_="8383723" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="29055138">C:\\Users\\kumarma\\AppData\\Local\\Temp\\4\\OSFFSS\\screen1493707073067.jpg</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="33463373">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="22806917">1493707073192</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="13082611">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="33541436">1493707073192</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="16469857"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry2" _object_hashcode_="30810492">
+				<int _field_name_="keyObject" _object_hashcode_="2548515">2</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="5" _field_name_="valueObject" _object_hashcode_="17444271">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="20794126"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="17467352">
+						<collectionItem _field_name_="entry0" _object_hashcode_="19957791">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="31220368">Button</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="20501200">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="22052563">1493707035440</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="26766561">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="16140237">5</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="1335293">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="17245728">//forms:button[(@name=&apos;CONTROL_FOLDER_REVIEW_B_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="27915450">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="15703605">click</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="16911436">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="15076708">1493707035440</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="24727259"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry3" _object_hashcode_="24477236">
+				<int _field_name_="keyObject" _object_hashcode_="19628917">3</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedWindowChangeElement" id="6" _field_name_="valueObject" _object_hashcode_="29602411">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="16174663"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="23121716">
+						<collectionItem _field_name_="entry0" _object_hashcode_="11578514">
+							<object_reference_element _object_hashcode_="24996994" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="14877924">Bank Statement</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="17948689">
+							<object_reference_element _object_hashcode_="8383723" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="7205206">C:\\Users\\kumarma\\AppData\\Local\\Temp\\4\\OSFFSS\\screen1493707043334.jpg</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="9278260">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="19708625">1493707043677</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="12285094">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="31513844">1493707043677</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="30030595"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry11" _object_hashcode_="15167200">
+				<int _field_name_="keyObject" _object_hashcode_="21505635">11</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="14" _field_name_="valueObject" _object_hashcode_="30436035">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="1128844"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="14243056">
+						<collectionItem _field_name_="entry0" _object_hashcode_="2123745">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="9694284">Window</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="25423904">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="28761411">1493707065797</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="17422891">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="32395703">14</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="30558167">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="14827540">//forms:window[(@name=&apos;LINES&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="6984169">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="20803491">close</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="9528978">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="12736108">1493707065797</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="12053405"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry4" _object_hashcode_="31786967">
+				<int _field_name_="keyObject" _object_hashcode_="32031297">4</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="7" _field_name_="valueObject" _object_hashcode_="2702709">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="25292354"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="21053501">
+						<collectionItem _field_name_="entry0" _object_hashcode_="23457451">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="28759461">Button</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="18372541">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="29898206">1493707043677</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="19418718">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="10956627">7</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="20004227">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="19426916">//forms:button[(@name=&apos;CONTROL_HEADERS_LINES_B_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="29201742">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="19025580">click</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="26568983">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="27322024">1493707043677</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="8870630"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry10" _object_hashcode_="2526674">
+				<int _field_name_="keyObject" _object_hashcode_="30604692">10</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedWindowChangeElement" id="13" _field_name_="valueObject" _object_hashcode_="17181847">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="5872951"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="23111394">
+						<collectionItem _field_name_="entry0" _object_hashcode_="19465275">
+							<object_reference_element _object_hashcode_="24996994" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="8897676">Bank Statement Lines - 18-OCT-2016</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="30722660">
+							<object_reference_element _object_hashcode_="8383723" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="11780355">C:\\Users\\kumarma\\AppData\\Local\\Temp\\4\\OSFFSS\\screen1493707060939.jpg</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="20158011">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="32188182">1493707061220</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="30152653">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="3978729">1493707061220</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="30075567"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry5" _object_hashcode_="3056124">
+				<int _field_name_="keyObject" _object_hashcode_="11190648">5</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedWindowChangeElement" id="8" _field_name_="valueObject" _object_hashcode_="8640693">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="548511"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="24915528">
+						<collectionItem _field_name_="entry0" _object_hashcode_="26010363">
+							<object_reference_element _object_hashcode_="24996994" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="1482872">Bank Statement Lines - 18-OCT-2016</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="9035250">
+							<object_reference_element _object_hashcode_="8383723" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="12024697">C:\\Users\\kumarma\\AppData\\Local\\Temp\\4\\OSFFSS\\screen1493707057055.jpg</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="21647272">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="10567635">1493707058209</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="28563898">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="17461144">1493707058209</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="2397677"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry52" _object_hashcode_="10177649">
+				<int _field_name_="keyObject" _object_hashcode_="30264192">52</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="55" _field_name_="valueObject" _object_hashcode_="32205691">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="14520215"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="33429892">
+						<collectionItem _field_name_="entry6" _object_hashcode_="28807443">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="18855945">1493707254620</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="9809841">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="32898329">TreeList</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="21089629">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="10895068">1493707254620</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="17938743">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="2647854">55</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="9888524">
+							<string _field_name_="keyObject" _object_hashcode_="33400368">item</string>
+							<literal _field_name_="valueObject" _object_hashcode_="27908853">Payments</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="1321512">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="11535566">//forms:treeList[(@name=&apos;NAVIGATOR_LIST_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="31172642">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="33237826">selectItem</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="13962370"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry51" _object_hashcode_="33253036">
+				<int _field_name_="keyObject" _object_hashcode_="5637394">51</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="54" _field_name_="valueObject" _object_hashcode_="23520516">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="4558395"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="8183372">
+						<collectionItem _field_name_="entry6" _object_hashcode_="1169525">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="3236022">1493707251484</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="26872367">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="19048470">TreeList</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="1228426">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="20005759">1493707251484</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="10185101">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="13900121">54</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="19838106">
+							<string _field_name_="keyObject" _object_hashcode_="31282623">item</string>
+							<literal _field_name_="valueObject" _object_hashcode_="2664178">Payments</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="22211607">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="13019651">//forms:treeList[(@name=&apos;NAVIGATOR_LIST_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="17437466">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="13129160">focusItem</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="7860258"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry50" _object_hashcode_="7087887">
+				<int _field_name_="keyObject" _object_hashcode_="988845">50</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedWindowChangeElement" id="53" _field_name_="valueObject" _object_hashcode_="10089051">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="16143218"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="31486271">
+						<collectionItem _field_name_="entry0" _object_hashcode_="7897970">
+							<object_reference_element _object_hashcode_="24996994" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="12615730">Navigator - CORP Payables Manager</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="33413270">
+							<object_reference_element _object_hashcode_="8383723" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="901352">C:\\Users\\kumarma\\AppData\\Local\\Temp\\4\\OSFFSS\\screen1493707242403.jpg</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="9871218">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="13535302">1493707242825</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="12460487">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="530423">1493707242825</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="22908803"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry68" _object_hashcode_="10202610">
+				<int _field_name_="keyObject" _object_hashcode_="10845465">68</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedWindowChangeElement" id="71" _field_name_="valueObject" _object_hashcode_="12068583">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="145478"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="29131218">
+						<collectionItem _field_name_="entry0" _object_hashcode_="12121981">
+							<object_reference_element _object_hashcode_="24996994" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="13476078">Calendar</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="25180715">
+							<object_reference_element _object_hashcode_="8383723" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="19297666">C:\\Users\\kumarma\\AppData\\Local\\Temp\\4\\OSFFSS\\screen1493707318678.jpg</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="23796837">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="17100592">1493707318819</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="18168576">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="25420487">1493707318819</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="27097246"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry69" _object_hashcode_="13932076">
+				<int _field_name_="keyObject" _object_hashcode_="1172497">69</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="72" _field_name_="valueObject" _object_hashcode_="9716796">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="776206"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="26585924">
+						<collectionItem _field_name_="entry0" _object_hashcode_="13588600">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="3794697">Button</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="12148194">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="33255368">1493707318819</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="29538667">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="2644589">72</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="18566614">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="25267477">//forms:button[(@name=&apos;CALENDAR_OK_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="26435019">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="25448866">setFocus</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="32696414">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="4293542">1493707318819</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="19546858"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry64" _object_hashcode_="7709044">
+				<int _field_name_="keyObject" _object_hashcode_="25040154">64</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedWindowChangeElement" id="67" _field_name_="valueObject" _object_hashcode_="10190996">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="18250236"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="10667075">
+						<collectionItem _field_name_="entry0" _object_hashcode_="12252433">
+							<object_reference_element _object_hashcode_="24996994" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="17530736">Error</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="3104948">
+							<object_reference_element _object_hashcode_="8383723" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="12914987">C:\\Users\\kumarma\\AppData\\Local\\Temp\\4\\OSFFSS\\screen1493707311386.jpg</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="7721663">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="23477315">1493707312450</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="23014687">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="25306533">1493707312450</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="24485496"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry29" _object_hashcode_="25921893">
+				<int _field_name_="keyObject" _object_hashcode_="11089391">29</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="32" _field_name_="valueObject" _object_hashcode_="18087961">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="1221717"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="31644666">
+						<collectionItem _field_name_="entry0" _object_hashcode_="32079378">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="29230429">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="5505788">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="25028399">1493707138743</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="26225429">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="5592227">32</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="33321613">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="26769691">//forms:textField[(@name=&apos;INV_SUM_FOLDER_INVOICE_NUM_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="12887487">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="25945592">click</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="6143165">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="4454306">1493707138743</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="3588174"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry65" _object_hashcode_="1195867">
+				<int _field_name_="keyObject" _object_hashcode_="28680931">65</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="68" _field_name_="valueObject" _object_hashcode_="31007880">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="15566515"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="2512210">
+						<collectionItem _field_name_="entry6" _object_hashcode_="33399735">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="17336242">1493707312450</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="17260568">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="31210577">ChoiceBox</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="20316051">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="15949914">1493707312450</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="1985828">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="8576469">68</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="22712368">
+							<string _field_name_="keyObject" _object_hashcode_="813293">value</string>
+							<literal _field_name_="valueObject" _object_hashcode_="12378177">OK</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="11563589">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="28138379">//forms:choiceBox</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="1980511">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="30621838">clickButton</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="3359267"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry28" _object_hashcode_="456312">
+				<int _field_name_="keyObject" _object_hashcode_="26432176">28</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="31" _field_name_="valueObject" _object_hashcode_="18467232">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="282872"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="23070025">
+						<collectionItem _field_name_="entry0" _object_hashcode_="18839735">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="16841160">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="19807253">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="22659311">1493707138348</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="6989594">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="14360239">31</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="55212">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="3541591">//forms:textField[(@name=&apos;INV_SUM_FOLDER_INVOICE_TYPE_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="21979208">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="7435596">setFocus</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="3811341">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="9283232">1493707138348</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="28733544"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry66" _object_hashcode_="1810396">
+				<int _field_name_="keyObject" _object_hashcode_="10747950">66</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedWindowChangeElement" id="69" _field_name_="valueObject" _object_hashcode_="17291166">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="31259633"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="18910251">
+						<collectionItem _field_name_="entry0" _object_hashcode_="27021748">
+							<object_reference_element _object_hashcode_="24996994" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="4646066">Payments (CORP Payables Manager)</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="28852441">
+							<object_reference_element _object_hashcode_="8383723" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="7362174">C:\\Users\\kumarma\\AppData\\Local\\Temp\\4\\OSFFSS\\screen1493707314182.jpg</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="27883482">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="33534429">1493707315322</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="16494071">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="1979023">1493707315322</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="9003241"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry67" _object_hashcode_="22697865">
+				<int _field_name_="keyObject" _object_hashcode_="18867170">67</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="70" _field_name_="valueObject" _object_hashcode_="11146563">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="5903177"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="27803034">
+						<collectionItem _field_name_="entry0" _object_hashcode_="2686652">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="26963026">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="23857285">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="28838960">1493707315340</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="27496445">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="962969">70</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="21114614">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="29584918">//forms:textField[(@name=&apos;PAY_SUM_FOLDER_CHECK_DATE_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="1645093">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="1984650">openDialog</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="240539">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="32676959">1493707315340</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="16273704"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry25" _object_hashcode_="16213700">
+				<int _field_name_="keyObject" _object_hashcode_="10233223">25</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="28" _field_name_="valueObject" _object_hashcode_="23325808">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="20427232"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="25111136">
+						<collectionItem _field_name_="entry6" _object_hashcode_="8115593">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="16292275">1493707120773</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="8160">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="1471476">TreeList</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="2937633">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="17069947">1493707120773</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="14242300">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="21416919">28</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="26577482">
+							<string _field_name_="keyObject" _object_hashcode_="12084307">item</string>
+							<literal _field_name_="valueObject" _object_hashcode_="29540610">Invoices|Entry|Invoices</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="11148488">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="20682455">//forms:treeList[(@name=&apos;NAVIGATOR_LIST_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="4697230">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="23892575">focusItem</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="16622831"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry24" _object_hashcode_="26336076">
+				<int _field_name_="keyObject" _object_hashcode_="32912322">24</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="27" _field_name_="valueObject" _object_hashcode_="12591944">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="5011049"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="32639622">
+						<collectionItem _field_name_="entry6" _object_hashcode_="13928843">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="17384795">1493707118920</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="26355706">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="32855658">TreeList</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="8306196">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="24490841">1493707118920</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="15804106">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="30434922">27</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="2735670">
+							<string _field_name_="keyObject" _object_hashcode_="32242236">item</string>
+							<literal _field_name_="valueObject" _object_hashcode_="24749103">Invoices|Entry</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="8837810">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="24433980">//forms:treeList[(@name=&apos;NAVIGATOR_LIST_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="25165898">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="31976462">selectItem</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="20624414"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry27" _object_hashcode_="9640663">
+				<int _field_name_="keyObject" _object_hashcode_="9640547">27</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedWindowChangeElement" id="30" _field_name_="valueObject" _object_hashcode_="27885262">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="12853210"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="481798">
+						<collectionItem _field_name_="entry0" _object_hashcode_="29839601">
+							<object_reference_element _object_hashcode_="24996994" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="2982311">Invoice Workbench (CORP Payables Manager)</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="9639345">
+							<object_reference_element _object_hashcode_="8383723" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="1718657">C:\\Users\\kumarma\\AppData\\Local\\Temp\\4\\OSFFSS\\screen1493707137115.jpg</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="7689551">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="27118771">1493707138348</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="20166085">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="5870255">1493707138348</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="11354417"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry26" _object_hashcode_="31630441">
+				<int _field_name_="keyObject" _object_hashcode_="28724739">26</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="29" _field_name_="valueObject" _object_hashcode_="29078565">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="3141940"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="25478249">
+						<collectionItem _field_name_="entry6" _object_hashcode_="9964624">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="10328222">1493707121546</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="5276563">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="6039040">TreeList</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="32394754">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="22629833">1493707121546</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="4431017">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="28208545">29</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="14832063">
+							<string _field_name_="keyObject" _object_hashcode_="27495021">item</string>
+							<literal _field_name_="valueObject" _object_hashcode_="30736403">Invoices|Entry|Invoices</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="6623910">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="22539710">//forms:treeList[(@name=&apos;NAVIGATOR_LIST_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="28018921">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="1088814">selectItem</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="12541183"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry21" _object_hashcode_="11112555">
+				<int _field_name_="keyObject" _object_hashcode_="25747877">21</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedWindowChangeElement" id="24" _field_name_="valueObject" _object_hashcode_="26622797">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="1002343"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="2068913">
+						<collectionItem _field_name_="entry0" _object_hashcode_="4755014">
+							<object_reference_element _object_hashcode_="24996994" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="7357120">Responsibilities</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="24430873">
+							<object_reference_element _object_hashcode_="8383723" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="2513085">C:\\Users\\kumarma\\AppData\\Local\\Temp\\4\\OSFFSS\\screen1493707109431.jpg</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="4109610">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="18574419">1493707109587</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="15201074">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="18390725">1493707109587</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="23046531"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry20" _object_hashcode_="1005588">
+				<int _field_name_="keyObject" _object_hashcode_="31638696">20</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="23" _field_name_="valueObject" _object_hashcode_="14488681">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="6760736"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="12390343">
+						<collectionItem _field_name_="entry6" _object_hashcode_="23054509">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="969707">1493707109572</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="24117406">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="14987669">ListOfValues</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="3711098">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="632235">1493707109572</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="28299438">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="31543024">23</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="28138670">
+							<string _field_name_="keyObject" _object_hashcode_="21529428">value</string>
+							<literal _field_name_="valueObject" _object_hashcode_="27666025">CORP Payables Manager</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="10475432">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="10628104">//forms:listOfValues</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="492556">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="31686685">select</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="15730285"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry23" _object_hashcode_="24011816">
+				<int _field_name_="keyObject" _object_hashcode_="30388016">23</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="26" _field_name_="valueObject" _object_hashcode_="32934574">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="17478092"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="18802268">
+						<collectionItem _field_name_="entry6" _object_hashcode_="7453529">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="16155722">1493707118009</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="12782011">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="506569">TreeList</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="11792928">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="23608516">1493707118009</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="31277413">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="19945459">26</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="15760641">
+							<string _field_name_="keyObject" _object_hashcode_="1521001">item</string>
+							<literal _field_name_="valueObject" _object_hashcode_="28551833">Invoices</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="10410616">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="27592216">//forms:treeList[(@name=&apos;NAVIGATOR_LIST_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="18419209">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="30172485">selectItem</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="826653"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry22" _object_hashcode_="32024525">
+				<int _field_name_="keyObject" _object_hashcode_="9382655">22</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedWindowChangeElement" id="25" _field_name_="valueObject" _object_hashcode_="22007740">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="13596859"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="16740004">
+						<collectionItem _field_name_="entry0" _object_hashcode_="23109998">
+							<object_reference_element _object_hashcode_="24996994" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="30310505">Navigator - CORP Payables Manager</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="17197721">
+							<object_reference_element _object_hashcode_="8383723" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="511568">C:\\Users\\kumarma\\AppData\\Local\\Temp\\4\\OSFFSS\\screen1493707117853.jpg</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="4231025">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="3835285">1493707117993</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="9009193">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="12271789">1493707117993</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="26422160"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry61" _object_hashcode_="19912788">
+				<int _field_name_="keyObject" _object_hashcode_="776950">61</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="64" _field_name_="valueObject" _object_hashcode_="5529860">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="28139319"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="21380549">
+						<collectionItem _field_name_="entry6" _object_hashcode_="2336959">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="32957746">1493707286902</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="18593420">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="2457338">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="7184869">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="17007818">1493707286902</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="27255669">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="25931177">64</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="928947">
+							<string _field_name_="keyObject" _object_hashcode_="8780358">value</string>
+							<literal _field_name_="valueObject" _object_hashcode_="32648399">NEXT_FIELD</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="10003194">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="25754910">//forms:textField[(@name=&apos;PAY_SUM_FOLDER_CURRENT_BANK_ACCOUNT_NAME_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="15986245">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="30993416">invokeSoftKey</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="7347414"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry60" _object_hashcode_="10482816">
+				<int _field_name_="keyObject" _object_hashcode_="31287462">60</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="63" _field_name_="valueObject" _object_hashcode_="16879135">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="18463665"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="7441430">
+						<collectionItem _field_name_="entry6" _object_hashcode_="23922432">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="20746448">1493707286662</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="15115576">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="23316885">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="6894671">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="3169250">1493707286662</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="15288157">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="10996215">63</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="21778711">
+							<string _field_name_="keyObject" _object_hashcode_="13438575">value</string>
+							<literal _field_name_="valueObject" _object_hashcode_="7256741">ACC Corporate Account</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="23054842">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="30644118">//forms:textField[(@name=&apos;PAY_SUM_FOLDER_CURRENT_BANK_ACCOUNT_NAME_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="29715975">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="20433007">setText</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="21504063"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry63" _object_hashcode_="12237461">
+				<int _field_name_="keyObject" _object_hashcode_="4125375">63</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="66" _field_name_="valueObject" _object_hashcode_="11733750">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="9748406"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="28731885">
+						<collectionItem _field_name_="entry0" _object_hashcode_="19906262">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="22257928">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="26869054">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="320614">1493707312450</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="12647558">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="28884768">66</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="186987">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="30711780">//forms:textField[(@name=&apos;PAY_SUM_FOLDER_CURRENT_VENDOR_NAME_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="22138576">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="14371625">setFocus</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="31508665">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="9970840">1493707312450</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="9084266"/>
+					
+					</element>
+				
+				</collectionItem>
+			<collectionItem _field_name_="entry62" _object_hashcode_="10100208">
+				<int _field_name_="keyObject" _object_hashcode_="9587337">62</int>
+				<element parentId="1" type="oracle.oats.scripting.modules.formsFT.modelElements.recorded.RecordedFormsNodeActionElement" id="65" _field_name_="valueObject" _object_hashcode_="6001599">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="4262352"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="32197986">
+						<collectionItem _field_name_="entry6" _object_hashcode_="2325497">
+							<object_reference_element _object_hashcode_="15803637" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="14244202">1493707299983</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="27277390">
+							<object_reference_element _object_hashcode_="7925724" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="24013102">TextField</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="30445272">
+							<object_reference_element _object_hashcode_="3453657" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="24551394">1493707299983</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="22161840">
+							<object_reference_element _object_hashcode_="3353933" _field_name_="keyObject"/>
+							<literalInt _field_name_="valueObject" _object_hashcode_="5408727">65</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="19856156">
+							<string _field_name_="keyObject" _object_hashcode_="21629233">value</string>
+							<literal _field_name_="valueObject" _object_hashcode_="27361020">18-04-2017</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="23588857">
+							<object_reference_element _object_hashcode_="1763538" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="1524948">//forms:textField[(@name=&apos;PAY_SUM_FOLDER_CHECK_DATE_0&apos;)]</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="12319621">
+							<object_reference_element _object_hashcode_="27121660" _field_name_="keyObject"/>
+							<literal _field_name_="valueObject" _object_hashcode_="2516761">setText</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="20622291"/>
+					
+					</element>
+				
+				</collectionItem>
+			
+			</java.util.ArrayList>
+		
+		</element>
+	
+	</model>

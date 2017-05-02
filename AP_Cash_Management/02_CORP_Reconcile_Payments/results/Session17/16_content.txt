@@ -1,0 +1,589 @@
+<HTML lang=en-US-ORACLE9I style="VISIBILITY: visible" dir=ltr><HEAD><TITLE>Oracle Applications Home Page</TITLE>
+<META name=generator content="Oracle UIX"><LINK rel=stylesheet type=text/css href="/OA_HTML/cabo/styles/cache/swanEXTN-custom-2_3_6_9-en-ie-windows.css" charset=UTF-8>
+<SCRIPT>var _UixWindowOpenError='A popup window blocker has been detected in your browser. Popup blockers interfere with the operation of this application. Please disable your popup blocker or allow popups from this site.';</SCRIPT>
+
+<SCRIPT src="/OA_HTML/cabo/jsLibs/Common2_3_6_9.js"></SCRIPT>
+
+<SCRIPT>_defaultTZ()</SCRIPT>
+
+<SCRIPT language=javascript src="/OA_HTML/cabo/oajsLibs/oafcoreR121.js"></SCRIPT>
+
+<SCRIPT language=javascript src="/OA_HTML/cabo/oajsLibs/oafb.js"></SCRIPT>
+
+<SCRIPT language=javascript src="/OA_HTML/cabo/oajsLibs/flexibleLayout.js"></SCRIPT>
+
+<SCRIPT language=javascript src="/OA_HTML/cabo/oajsLibs/mainMenuTree.js"></SCRIPT>
+
+<SCRIPT language=javascript src="/OA_HTML/cabo/oajsLibs/OAFSlideoutMenu.js"></SCRIPT>
+
+<SCRIPT language=javascript>function help_window() { help_win = window.open("https://app-layer-oracleebs-test.ds.acc.co.nz:4475/OA_HTML/help?locale=en_US&group=FND:LIBRARY:US&topic=US/FND/@ICX_FWK_LABS_HOME_PAGE", "help_win","resizable=yes,scrollbars=yes,toolbar=yes,width=600,height=500")}</SCRIPT>
+</HEAD>
+<BODY class=xk onload=_checkLoad(event) style="MARGIN-LEFT: 0px; MARGIN-TOP: 0px; MARGIN-RIGHT: 0px" onunload=_checkUnload(event) onbeforeunload=_savePageStateIE()><IFRAME id=_pprIFrame title="" style="POSITION: absolute; TOP: -100px; VISIBILITY: hidden" height=0 longDesc=# src="/OA_HTML/cabo/images/swan/t.htm" frameBorder=0 width=0 name=_pprIFrame></IFRAME>
+<DIV onclick="return _pprConsumeClick(event);" onkeypress="return false;" onkeyup="return false;" id=_pprBlockingDiv onkeydown="return false;" style="CURSOR: wait; HEIGHT: 0px; WIDTH: 0px; POSITION: absolute; LEFT: 0px; TOP: 0px"></DIV>
+<DIV id=_uixDownload class=x3f style="BEHAVIOR: url(#default#download)"></DIV>
+<SCRIPT>var _cachedLibs;</SCRIPT>
+
+<SCRIPT>var _pprFirstClickPass=true;</SCRIPT>
+<SPAN id=_pprPageContent>
+<FORM id=DefaultFormName style="MARGIN: 0px" method=post name=DefaultFormName action=/OA_HTML/OA.jsp?page=/oracle/apps/fnd/framework/navigate/webui/NewHomePG&amp;homePage=Y&amp;_ti=1755348338&amp;retainAM=Y&amp;addBreadCrumb=N&amp;OAMC=G&amp;oapc=5&amp;oas=2HtMElvMsJMIpRHo9bFgbQ..><INPUT id=_AM_TX_ID_FIELD type=hidden value=1MnK4ZlJz name=_AM_TX_ID_FIELD><INPUT id=_FORM type=hidden value=DefaultFormName2X3pq-2i name=_FORM><SPAN id=lovHFCId></SPAN><SPAN id=PageLayoutRN><A href="#TheContent"><IMG border=0 alt="Skip navigation elements to page contents" src="/OA_HTML/cabo/images/swan/t.gif"></A>
+<TABLE role=presentation class=x6u style="BACKGROUND-IMAGE: url(/OA_HTML/cabo/images/swan/headerBg.jpg)" cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD>
+<SCRIPT>var _tURL="\x2FOA_HTML\x2Fcabo\x2Fimages\x2Fswan\x2Ft.gif";var _axm=1;t('10','10')</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=10 height=10></TD></TR>
+<TR>
+<TD>
+<TABLE role=presentation style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px" cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD vAlign=top width="1%" noWrap><IMG border=0 alt="Oracle Logo" src="/OA_MEDIA/FNDSSCORP.gif" width=155 height=20></TD>
+<TD noWrap><SPAN title="E-Business Suite" style="POSITION: absolute"><SPAN class=x4i>E-Business Suite</SPAN></SPAN>
+<SCRIPT>t('0','14')</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=0 height=14></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR>
+<TD></TD>
+<TD style="POSITION: relative; PADDING-BOTTOM: 8px; Z-INDEX: 10" vAlign=bottom colSpan=2 align=right>
+<TABLE role=presentation class=x6w cellSpacing=0 cellPadding=0 summary="" border=0>
+<TBODY>
+<TR>
+<TD vAlign=bottom><LINK rel=stylesheet type=text/css href="cabo/styles/OAFSlideoutMenu.css">
+<DIV id=topmenubar style="WIDTH: 210px">
+<UL>
+<P style="FONT-SIZE: 12px; FONT-FAMILY: Arial; COLOR: white"><IMG class=image src="/OA_MEDIA/favorites.gif" align=absMiddle><A id=SFAV class=Fav href="#" name=Fav rel=FavList _master="topmenubar" _pos="0" _istoplevel="true">&nbsp;Favorites<IMG class=drimage src="/OA_MEDIA/drop_arrow.gif"></A></P></UL></DIV>
+<SCRIPT type=text/javascript>if(document.getElementById('topmenubar')) { oafsm.setup("topmenubar", "topbar",escape('RF.jsp?function_id=MAINMENUREST&security_group_id=0'),'false',false); }</SCRIPT>
+
+<DIV id=SFavTop style="POSITION: absolute; DISPLAY: none"></DIV></TD>
+<TD vAlign=bottom><A class=x15 href="/OA_HTML/OA.jsp?_rc=FND_DIAGNOSTICS_PAGE&amp;_ri=0&amp;retainAM=Y&amp;LogRetUrl=%2FOA_HTML%2FOA.jsp%3Fpage%3D%2Foracle%2Fapps%2Ffnd%2Fframework%2Fnavigate%2Fwebui%2FNewHomePG%26homePage%3DY%26transactionid%3D1755348338%26retainAM%3DY%26addBreadCrumb%3DN%26OAMC%3DG%26oas%3Dg-4W0DeFQ_CRKffBUXpJ0w..&amp;_ti=1755348338&amp;oapc=5&amp;menu=Y&amp;oas=y39rx4-kn6WNNLuHQfl4Yg..">Diagnostics</A></TD>
+<TD vAlign=bottom><A class=x15 href="/OA_HTML/OALogout.jsp?menu=Y">Logout</A></TD>
+<TD vAlign=bottom><A class=x15 href="/OA_HTML/OA.jsp?page=/oracle/apps/fnd/preferences/webui/PreferencesPG&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;menu=Y&amp;addBreadCrumb=S&amp;OAPF=Y&amp;oas=bKhcAD3ptWcm2JnFapPOIw..">Preferences</A></TD>
+<TD vAlign=bottom><A class=x15 href="javascript:top.help_window()">Help</A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE role=presentation cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD width="100%">
+<TABLE role=presentation class=x73 style="BACKGROUND-IMAGE: url(/OA_HTML/cabo/images/swan/navBarUnderTopTabsBg.gif)" cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<DIV class=x6t style="HEIGHT: auto">
+<TABLE role=presentation class=x7v cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD></TD>
+<TD>
+<SCRIPT>t('5','1')</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=5 height=1></TD>
+<TD align=right><SPAN class=x2u>Logged In As </SPAN><SPAN class=x2t>TANK</SPAN></TD></TR></TBODY></TABLE><A id=TheContent class=xh name=TheContent></A>
+<TABLE role=presentation id=FwkErrorBeanId cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD></TD></TR></TBODY></TABLE>
+<DIV></DIV>
+<DIV></DIV>
+<DIV class=x7x>
+<DIV>
+<DIV class=x6a>
+<TABLE role=presentation cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD width="100%">
+<H1 class=x1f>Oracle Applications Home Page</H1></TD></TR></TBODY></TABLE></DIV>
+<DIV class=x79>
+<TABLE role=presentation cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR vAlign=top>
+<TD><SPAN id=openNTF></SPAN></TD>
+<TD noWrap align=right></TD></TR>
+<TR>
+<TD>
+<SCRIPT>t('1','2')</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=1 height=2></TD></TR></TBODY></TABLE><NOSCRIPT></NOSCRIPT>
+<DIV></DIV><!-- oracle.portal.ui.renderer.FlexibleLayoutRenderer id=mainLayout:  render start isDisclosed=true hasHeader=false userCustomizable=false -->
+<TABLE id=mainLayout width="100%">
+<TBODY>
+<TR id=mainLayout_internalRow1>
+<TD id=mainLayout_internalRow1_Col2 vAlign=top align=left>
+<DIV id=mainLayout_div style="horizontal-align: left">
+<TABLE id=mainLayout_internalTable width="100%" ?>
+<TBODY><!-- oracle.portal.ui.renderer.FlexibleRowLayoutRenderer id=mainLayout_row_0:  render start -->
+<TR id=mainLayout_row_0 hAlign="left">
+<TD id=menuLayout height=450 vAlign=top width=320 align=left>
+<TABLE id=menuLayout_internalTable1 width="100%">
+<TBODY>
+<TR id=menuLayout_internalTable1_Row1>
+<TD id=menuLayout_internalRow1_Col2 vAlign=top align=left>
+<DIV id=menuLayout_div style="OVERFLOW: auto; HEIGHT: 450px; WIDTH: 320px; horizontal-align: left"><!-- oracle.portal.ui.renderer.FlexibleContentRenderer id=menuContent:  render start  hasHeader=false hasBorder=false isDisclosed=true -->
+<TABLE id=menuContent width="100%">
+<TBODY>
+<TR id=menuContent_internalRow1>
+<TD id=menuContent_internalRow1_Col2 vAlign=top align=left>
+<TABLE role=presentation id=menuTable cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR id=PersonalizeRow>
+<TD id=PersonalizeCell>
+<TABLE role=presentation id=header class=x9r cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD height=10></TD></TR>
+<TR>
+<TD>
+<TABLE role=presentation class=x7b style="BACKGROUND-IMAGE: url(/OA_HTML/cabo/images/swan/headingBarBg.gif)" cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD width="100%">
+<H2 class=x7c>Main Menu</H2></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=x79 height=8></TD></TR>
+<TR>
+<TD>
+<TABLE role=presentation cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD>
+<DIV class=x79>
+<DIV class=x7a>
+<TABLE role=presentation id=headerTable cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR id=headerRow>
+<TD id=headerCell align=right><BUTTON onclick="document.location='OA.jsp?page=/oracle/apps/fnd/framework/navigate/webui/CustomizeNavigatePG&amp;_ti=1755348338&amp;oapc=5&amp;oas=sRw_e54gclLcwi0vBuDHig..'" id=persBtn title=Personalize class=x7n style="BACKGROUND-IMAGE: url(/OA_HTML/cabo/images/swan/btn-bg1.gif)">Personalize</BUTTON></TD></TR></TBODY></TABLE></DIV></DIV></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+<TR id=MenuRow>
+<TD id=MenuCell vAlign=top>
+<TABLE role=presentation id=mainMenuRegion cellSpacing=0 cellPadding=0 width="100%" align=center summary="" border=0>
+<TBODY>
+<TR id=mainMenuRow vAlign=top>
+<TD id=mainMenuCell vAlign=top width="100%">
+<TABLE id=respList style="MARGIN-TOP: 0px; BACKGROUND-COLOR: #eaeff5" cellSpacing=0 cellPadding=0 width="100%" summary=respTable border=0>
+<TBODY>
+<TR>
+<TD>
+<UL id=treemenu1 class=treeview>
+<LI id=50596:191:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif"><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif">ACC Account Manager Intelligence</A></LI>
+<LI id=50262:222:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif"><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif">ACC AR Finance</A></LI>
+<LI id=50282:222:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif"><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif">ACC AR Finance Approver</A></LI>
+<LI id=50263:222:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif"><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif">ACC BIS</A></LI>
+<LI id=50450:695:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif"><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif">ACC BIS Batch Manager</A></LI>
+<LI id=50485:191:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif"><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif">ACC Branch Intelligence</A></LI>
+<LI id=50471:695:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif"><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif">ACC BSC Levy Payment</A></LI>
+<LI id=50242:260:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif"><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif">ACC Cash Management</A></LI>
+<LI id=50332:260:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif"><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif">ACC Cash Management Inquiry</A></LI>
+<LI id=50288:260:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif"><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif">ACC Cash Management User</A></LI>
+<LI id=50475:695:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif"><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif">ACC DMU Collectors</A></LI>
+<LI id=50483:191:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif"><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif">ACC DMU Intelligence</A></LI>
+<LI id=50275:222:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>ACC Finance</A></LI>
+<LI id=50277:191:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>ACC Financials Intelligence</A></LI>
+<LI id=50442:140:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>ACC Fixed Assets Intelligence</A></LI>
+<LI id=50447:101:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>ACC General Ledger Intelligence</A></LI>
+<LI id=50496:20003:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>ACC Interface Files</A></LI>
+<LI id=50536:191:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>ACC Investment Intelligence</A></LI>
+<LI id=50736:695:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>ACC Levy Info Management Team</A></LI>
+<LI id=50495:1:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>ACC Password Reset</A></LI>
+<LI id=50294:200:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>ACC Payables Inquiry</A></LI>
+<LI id=50237:200:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>ACC Payables Manager</A></LI>
+<LI id=50295:200:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>ACC Payables User</A></LI>
+<LI id=50616:191:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>ACC Procurement Intelligence</A></LI>
+<LI id=50296:222:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>ACC Receivables Inquiry</A></LI>
+<LI id=50230:222:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>ACC Receivables Manager</A></LI>
+<LI id=51277:265:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>ACC Report Manager Super User</A></LI>
+<LI id=50270:222:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>ACC Technical Claims Manager</A></LI>
+<LI id=51257:200:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>ACC Workflow User (New)</A></LI>
+<LI id=20456:160:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>Alert Manager</A></LI>
+<LI id=50936:200:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>All Entities Payables Manager</A></LI>
+<LI id=50421:101:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>All Entity General Ledger Inquiry</A></LI>
+<LI id=50422:101:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>All Entity General Ledger Management Acct</A></LI>
+<LI id=50419:101:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>All Entity General Ledger Manager</A></LI>
+<LI id=50420:101:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>All Entity General Ledger User</A></LI>
+<LI id=50856:101:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>All Entity GL Investments Manager</A></LI>
+<LI id=50418:101:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>All Entity GL Super User</A></LI>
+<LI id=23057:178:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>AME Application Administrator</A></LI>
+<LI id=20419:0:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>Application Developer</A></LI>
+<LI id=51196:0:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>Application Diagnostics</A></LI>
+<LI id=20781:260:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>Bank Reconciliation</A></LI>
+<LI id=23066:695:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>Collections Forms Administrator</A></LI>
+<LI id=50280:222:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>CORP AR Finance</A></LI>
+<LI id=50334:260:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>CORP Cash Management Inquiry</A></LI>
+<LI id=50303:260:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>CORP Cash Management User</A></LI>
+<LI id=50426:140:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>CORP Fixed Assets Controller</A></LI>
+<LI id=50441:140:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>CORP Fixed Assets Manager</A></LI>
+<LI id=50427:140:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>CORP Fixed Assets User</A></LI>
+<LI id=50241:101:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>CORP General Ledger Superuser</A></LI>
+<LI id=50417:275:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>CORP PA Inquiry</A></LI>
+<LI id=50415:275:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>CORP PA Super User</A></LI>
+<LI id=50416:275:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>CORP PA User</A></LI>
+<LI id=50435:200:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>CORP Payables Bank Setup</A></LI>
+<LI id=50436:200:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>CORP Payables Inquiry</A></LI>
+<LI id=50443:200:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>CORP Payables Intelligence</A></LI>
+<LI id=50240:200:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>CORP Payables Manager</A></LI>
+<LI id=50448:200:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>CORP Payables Special DFA</A></LI>
+<LI id=50438:200:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>CORP Payables Supplier Setup</A></LI>
+<LI id=50434:200:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>CORP Payables Team Leader</A></LI>
+<LI id=50437:200:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>CORP Payables User</A></LI>
+<LI id=50445:275:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>CORP Projects Intelligence</A></LI>
+<LI id=50305:222:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>CORP Receivables Inquiry</A></LI>
+<LI id=50233:222:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>CORP Receivables Manager</A></LI>
+<LI id=50876:200:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>CORP Supplier Bank Account Assignments</A></LI>
+<LI id=50556:200:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>CORP Supplier Inquiry</A></LI>
+<LI id=50376:231:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>Desktop Integrator</A></LI>
+<LI id=24077:0:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>Functional Administrator</A></LI>
+<LI id=51052:673:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>Funds Capture Process Manager</A></LI>
+<LI id=50493:260:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>MFP Cash Management Inquiry</A></LI>
+<LI id=50492:260:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>MFP Cash Management User</A></LI>
+<LI id=50494:200:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>MFP Payables Inquiry</A></LI>
+<LI id=50491:200:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>MFP Payables Manager</A></LI>
+<LI id=50429:200:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>MFP Payables User</A></LI>
+<LI id=50836:690:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>Oracle Diagnostics Tool</A></LI>
+<LI id=20873:178:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>Preferences SSWA</A></LI>
+<LI id=20420:1:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>System Administrator</A></LI>
+<LI id=25623:0:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>User Management</A></LI>
+<LI id=21613:0:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>Workflow Administrator</A></LI>
+<LI id=21615:0:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>Workflow Administrator Web Applications</A></LI>
+<LI id=50174:0:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>Workflow User Web (New)</A></LI>
+<LI id=24195:603:-1:0 class=rootmenu><A href="#"><IMG class=image alt=Expand src="/OA_MEDIA/hideshow_infohidden.gif" width=16 height=16><IMG class=image alt="" src="/OA_MEDIA/fwkhp_folder.gif" width=16 height=16>XML Publisher Administrator</A></LI></UL></TD></TR></TBODY></TABLE><LINK rel=stylesheet type=text/css href="cabo/styles/mainMenuTree.css">
+<SCRIPT type=text/javascript>McreateTree("treemenu1", escape('RF.jsp?function_id=MAINMENUREST&security_group_id=0'), true)</SCRIPT>
+</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><!-- oracle.portal.ui.renderer.FlexibleContentRenderer id=menuContent:  render end --></DIV></TD></TR></TBODY></TABLE></TD><!-- oracle.portal.ui.renderer.FlexibleCellLayoutRenderer id=menuLayout:  render End -->
+<TD id=favNtfLayout vAlign=top align=left>
+<TABLE id=favNtfLayout_internalTable1 width="100%">
+<TBODY>
+<TR id=favNtfLayout_internalTable1_Row1>
+<TD id=favNtfLayout_internalRow1_Col2 vAlign=top align=left>
+<DIV id=favNtfLayout_div style="horizontal-align: left">
+<TABLE id=favNtfLayout_internalTable20 width="100%">
+<TBODY><!-- oracle.portal.ui.renderer.FlexibleRowLayoutRenderer id=favNtfLayout_row_0:  render start -->
+<TR id=favNtfLayout_row_0 hAlign="left">
+<TD id=NtfLayout vAlign=top width="100%" align=left>
+<TABLE id=NtfLayout_internalTable1 width="100%">
+<TBODY>
+<TR id=NtfLayout_internalTable1_Row1>
+<TD id=NtfLayout_internalRow1_Col2 vAlign=top align=left>
+<DIV id=NtfLayout_div style="horizontal-align: left"><!-- oracle.portal.ui.renderer.FlexibleContentRenderer id=NtfContent:  render start  hasHeader=false hasBorder=false isDisclosed=true -->
+<TABLE id=NtfContent width="100%">
+<TBODY>
+<TR id=NtfContent_internalRow1>
+<TD id=NtfContent_internalRow1_Col2 vAlign=top align=left>
+<TABLE role=presentation id=worklistRow cellSpacing=0 cellPadding=0 summary="" border=0>
+<TBODY>
+<TR>
+<TD id=worklistCell vAlign=top align=left>
+<TABLE role=presentation id=NotificationRN cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD height=10></TD></TR>
+<TR>
+<TD>
+<TABLE role=presentation class=x7b style="BACKGROUND-IMAGE: url(/OA_HTML/cabo/images/swan/headingBarBg.gif)" cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD width="100%">
+<H2 class=x7c>Worklist</H2></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD class=x79 height=8></TD></TR>
+<TR>
+<TD>
+<TABLE role=presentation cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD>
+<DIV class=x79>
+<DIV><SPAN id=Notifications>
+<TABLE role=presentation cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD></TD>
+<TD align=right><BUTTON onclick="document.location='OA.jsp?page=/oracle/apps/fnd/wf/worklist/webui/AdvancWorklistPG&amp;addBreadCrumb=Y&amp;ebizHomeList=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=Cuu6DGNJ5d2jxe-5xzVBRQ..'" id=NtfFullList title="Show the complete notification worklist (152 Open Notifications)" class=x7n style="BACKGROUND-IMAGE: url(/OA_HTML/cabo/images/swan/btn-bg1.gif)">Full List (152)</BUTTON></TD></TR></TBODY></TABLE>
+<DIV></DIV><SPAN id=NtfWorklist title="Notification List">
+<TABLE role=presentation cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE role=presentation class=x1p cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD width="100%"></TD>
+<TD vAlign=middle align=right>
+<SCRIPT>function _navBarSubmit(formName, gotoEvent, navBar, vld, val, sze, partialTargets){var i = val.indexOf(',');if (i >= 0){sze = val.substring(i+1);val = val.substring(0, i);}var submitFunc = (partialTargets == (void 0)) ? submitForm : _submitPartialChange;return submitFunc(formName,vld,{event:gotoEvent,source:navBar,value:val,size:sze,partialTargets:partialTargets});}function _navChoiceSubmit(choice, formName, gotoEvent, navBar, vld, size, partialTargets){if (!_navBarSubmit(formName, gotoEvent, navBar, vld, choice.options[choice.selectedIndex].value, size, partialTargets)){choice.selectedIndex = choice._lastValue;}}</SCRIPT>
+
+<TABLE role=presentation id=NtfWorklist-nb cellSpacing=0 cellPadding=0 summary="" border=0>
+<TBODY>
+<TR>
+<TD id=NtfWorklist-nb-i vAlign=middle><IMG border=0 alt="Previous functionality disabled" src="/OA_HTML/cabo/images/cache/ctnavpd.gif"></TD>
+<TD>
+<SCRIPT>t(5,1)</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=5 height=1></TD>
+<TD vAlign=middle noWrap><SPAN class=x49>Previous</SPAN></TD>
+<TD>
+<SCRIPT>t(5,1)</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=5 height=1></TD>
+<TD vAlign=middle noWrap><SELECT onchange="_navChoiceSubmit(this, 'DefaultFormName','goto','N39',1,null,'NtfWorklist')" onfocus="this._lastValue = this.selectedIndex" id=M__Id title="Select record set" class=x8><OPTION selected value=1,25>1-25</OPTION><OPTION value=26,25>More...</OPTION></SELECT><LABEL class=x3f for=M__Id>Select record set</LABEL>
+<SCRIPT language=javascript>_setSelectIndexById("M__Id",0)</SCRIPT>
+</TD>
+<TD>
+<SCRIPT>t(5,1)</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=5 height=1></TD>
+<TD vAlign=middle noWrap><A onclick="_navBarSubmit('DefaultFormName', 'goto','N39',1,'266yfOiSZR', '25t1hrzWsh','NtfWorklist');return false" class=x48 href="#">Next 25</A></TD>
+<TD>
+<SCRIPT>t(5,1)</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=5 height=1></TD>
+<TD vAlign=middle><A onclick="_navBarSubmit('DefaultFormName', 'goto','N39',1,'266yfOiSZR', '25t1hrzWsh','NtfWorklist');return false" href="#"><IMG border=0 alt="Select to view next set" src="/OA_HTML/cabo/images/cache/ctnavn.gif"></A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE class=x1o cellSpacing=0 cellPadding=1 width="100%" summary="Notification List" border=0>
+<TBODY>
+<TR>
+<TH onclick="_tableSortSubmit('DefaultFormName',1,'sort','N39','0MFh8zdPg','','NtfWorklist');return false" class="x27 x5e" scope=col><A onclick="return false;" id=OASH__31 class=x2a href="#">From
+<SCRIPT>function _tableSortSubmit(formName,validate,sortEvent,table,val,stat,ptgt) {var submitFunc = (ptgt == (void 0)) ? submitForm : _submitPartialChange;submitFunc(formName,validate,{event:sortEvent,source:table,value:val,state:stat,partialTargets:ptgt });}</SCRIPT>
+</A></TH>
+<TH onclick="_tableSortSubmit('DefaultFormName',1,'sort','N39','1Pa2wvVtc','','NtfWorklist');return false" class="x27 x5e" scope=col><A onclick="return false;" id=OASH__32 class=x2a href="#">Type</A></TH>
+<TH onclick="_tableSortSubmit('DefaultFormName',1,'sort','N39','2uYKDxXlM','','NtfWorklist');return false" class="x27 x5e" scope=col><A onclick="return false;" id=OASH__33 class=x2a href="#">Subject</A></TH>
+<TH onclick="_tableSortSubmit('DefaultFormName',1,'sort','N39','3HXB03S4i','descending','NtfWorklist');return false" class="x27 x5e" scope=col noWrap><A onclick="return false;" id=OASH__34 class=x2a href="#">Sent</A><A onclick="return false;" href="#"><IMG border=0 alt="Sorted in descending order" src="/OA_HTML/cabo/images/cache/cdsort-1.gif" width=16 align=middle height=16></A></TH>
+<TH onclick="_tableSortSubmit('DefaultFormName',1,'sort','N39','4P8mdzLV0','','NtfWorklist');return false" class="x27 x5e" scope=col><A onclick="return false;" id=OASH__35 class=x2a href="#">Due</A></TH></TR>
+<TR>
+<TD class="x1s x57"><SPAN id=N39:NtfFromUser:0></SPAN><BR></TD>
+<TD class="x1s x57"><SPAN id=N39:NtfType:0 title="Type of this notification">Acc Supplier Approve</SPAN></TD>
+<TD class="x1s x57"><A id=N39:NtfSubject:0 title="Supplier Approved T2049951 - REFUND" class=xh href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=31468222&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=9kyJpvMz5-XdxBGJ9HYOxQ..">Supplier Approved T2049951 - REFUND</A></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfSent:0 title="Date notification was sent">28-04-2017</SPAN></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfDue:0></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1s x57"><SPAN id=N39:NtfFromUser:1></SPAN><BR></TD>
+<TD class="x1s x57"><SPAN id=N39:NtfType:1 title="Type of this notification">AP Invoice Approval</SPAN></TD>
+<TD class="x1s x57"><A id=N39:NtfSubject:1 title="Invoice 2509186967 for AIRMATTE,          $800.00, due on 20-May-2017, CORP, image not found" class=xh href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=31467866&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=8Pm7gigwpIauR1xFTlcvtA..">Invoice 2509186967 for AIRMATTE, $800.00, due on 20-May-2017, CORP, image not found</A></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfSent:1 title="Date notification was sent">18-04-2017</SPAN></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfDue:1></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1s x57"><SPAN id=N39:NtfFromUser:2></SPAN><BR></TD>
+<TD class="x1s x57"><SPAN id=N39:NtfType:2 title="Type of this notification">AP Invoice Approval</SPAN></TD>
+<TD class="x1s x57"><A id=N39:NtfSubject:2 title="Invoice 4582837472 for AIRMATTE,          $800.00, due on 20-May-2017, CORP, image not found" class=xh href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=31467864&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=bgqxw_yizm33_orzSpBQmA..">Invoice 4582837472 for AIRMATTE, $800.00, due on 20-May-2017, CORP, image not found</A></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfSent:2 title="Date notification was sent">18-04-2017</SPAN></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfDue:2></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1s x57"><SPAN id=N39:NtfFromUser:3></SPAN><BR></TD>
+<TD class="x1s x57"><SPAN id=N39:NtfType:3 title="Type of this notification">AP Invoice Approval</SPAN></TD>
+<TD class="x1s x57"><A id=N39:NtfSubject:3 title="Invoice 6518855118 for AIRMATTE,          $800.00, due on 20-May-2017, CORP, image not found" class=xh href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=31467861&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=WSdn3wpkulfoBGBkBwTckA..">Invoice 6518855118 for AIRMATTE, $800.00, due on 20-May-2017, CORP, image not found</A></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfSent:3 title="Date notification was sent">18-04-2017</SPAN></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfDue:3></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1s x57"><SPAN id=N39:NtfFromUser:4></SPAN><BR></TD>
+<TD class="x1s x57"><SPAN id=N39:NtfType:4 title="Type of this notification">AP Invoice Approval</SPAN></TD>
+<TD class="x1s x57"><A id=N39:NtfSubject:4 title="Invoice 4105953342 for AIRMATTE,          $800.00, due on 20-May-2017, CORP, image not found" class=xh href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=31467859&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=IlwjBRfDINaALG6zwak1_Q..">Invoice 4105953342 for AIRMATTE, $800.00, due on 20-May-2017, CORP, image not found</A></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfSent:4 title="Date notification was sent">18-04-2017</SPAN></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfDue:4></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1s x57"><SPAN id=N39:NtfFromUser:5></SPAN><BR></TD>
+<TD class="x1s x57"><SPAN id=N39:NtfType:5 title="Type of this notification">AP Invoice Approval</SPAN></TD>
+<TD class="x1s x57"><A id=N39:NtfSubject:5 title="Invoice 4560678751 for AIRMATTE,          $800.00, due on 20-May-2017, CORP, image not found" class=xh href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=31467856&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=5rvQ-WX3Cp-DzxP9Orw_mw..">Invoice 4560678751 for AIRMATTE, $800.00, due on 20-May-2017, CORP, image not found</A></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfSent:5 title="Date notification was sent">18-04-2017</SPAN></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfDue:5></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1s x57"><SPAN id=N39:NtfFromUser:6></SPAN><BR></TD>
+<TD class="x1s x57"><SPAN id=N39:NtfType:6 title="Type of this notification">AP Invoice Approval</SPAN></TD>
+<TD class="x1s x57"><A id=N39:NtfSubject:6 title="Invoice 7367352346 for AIRMATTE,          $800.00, due on 20-May-2017, CORP, image not found" class=xh href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=31467851&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=Hg55VKT5z2PfT2hEstnfug..">Invoice 7367352346 for AIRMATTE, $800.00, due on 20-May-2017, CORP, image not found</A></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfSent:6 title="Date notification was sent">18-04-2017</SPAN></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfDue:6></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1s x57"><SPAN id=N39:NtfFromUser:7></SPAN><BR></TD>
+<TD class="x1s x57"><SPAN id=N39:NtfType:7 title="Type of this notification">AP Invoice Approval</SPAN></TD>
+<TD class="x1s x57"><A id=N39:NtfSubject:7 title="Invoice 9098596519 for AIRMATTE,          $800.00, due on 20-May-2017, CORP, image not found" class=xh href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=31467846&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=euI01OJxLIsLINO9Z5RQJQ..">Invoice 9098596519 for AIRMATTE, $800.00, due on 20-May-2017, CORP, image not found</A></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfSent:7 title="Date notification was sent">18-04-2017</SPAN></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfDue:7></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1s x57"><SPAN id=N39:NtfFromUser:8></SPAN><BR></TD>
+<TD class="x1s x57"><SPAN id=N39:NtfType:8 title="Type of this notification">AP Invoice Approval</SPAN></TD>
+<TD class="x1s x57"><A id=N39:NtfSubject:8 title="Invoice 9372128357 for AIRMATTE,          $800.00, due on 20-May-2017, CORP, image not found" class=xh href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=31467844&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=2rql6gG_R1-RLvqdo5zSfQ..">Invoice 9372128357 for AIRMATTE, $800.00, due on 20-May-2017, CORP, image not found</A></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfSent:8 title="Date notification was sent">18-04-2017</SPAN></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfDue:8></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1s x57"><SPAN id=N39:NtfFromUser:9></SPAN><BR></TD>
+<TD class="x1s x57"><SPAN id=N39:NtfType:9 title="Type of this notification">AP Invoice Approval</SPAN></TD>
+<TD class="x1s x57"><A id=N39:NtfSubject:9 title="Invoice 0042387408 for AIRMATTE,          $800.00, due on 20-May-2017, CORP, image not found" class=xh href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=31467838&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=yrxk3n1Muekcus_gjrPfFw..">Invoice 0042387408 for AIRMATTE, $800.00, due on 20-May-2017, CORP, image not found</A></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfSent:9 title="Date notification was sent">18-04-2017</SPAN></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfDue:9></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1s x57"><SPAN id=N39:NtfFromUser:10></SPAN><BR></TD>
+<TD class="x1s x57"><SPAN id=N39:NtfType:10 title="Type of this notification">AP Invoice Approval</SPAN></TD>
+<TD class="x1s x57"><A id=N39:NtfSubject:10 title="Invoice TEST UNISYS 6989018879 for UNISYS,          $800.00, due on 20-May-2017, CORP, image not found" class=xh href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=31467676&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=j5gK8i1lC7RBbcx2_inVbg..">Invoice TEST UNISYS 6989018879 for UNISYS, $800.00, due on 20-May-2017, CORP, image not found</A></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfSent:10 title="Date notification was sent">13-04-2017</SPAN></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfDue:10></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1s x57"><SPAN id=N39:NtfFromUser:11></SPAN><BR></TD>
+<TD class="x1s x57"><SPAN id=N39:NtfType:11 title="Type of this notification">AP Invoice Approval</SPAN></TD>
+<TD class="x1s x57"><A id=N39:NtfSubject:11 title="Invoice TEST UNISYS 7217426821 for UNISYS,          $800.00, due on 20-May-2017, CORP, image not found" class=xh href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=31467673&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=xnVWj2fWiNS94xqPnuxykA..">Invoice TEST UNISYS 7217426821 for UNISYS, $800.00, due on 20-May-2017, CORP, image not found</A></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfSent:11 title="Date notification was sent">13-04-2017</SPAN></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfDue:11></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1s x57"><SPAN id=N39:NtfFromUser:12></SPAN><BR></TD>
+<TD class="x1s x57"><SPAN id=N39:NtfType:12 title="Type of this notification">AP Invoice Approval</SPAN></TD>
+<TD class="x1s x57"><A id=N39:NtfSubject:12 title="Invoice TEST UNISYS 1503477273 for UNISYS,          $800.00, due on 20-May-2017, CORP, image not found" class=xh href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=31467669&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=o4gkbIk6sawUkzH_30S8-A..">Invoice TEST UNISYS 1503477273 for UNISYS, $800.00, due on 20-May-2017, CORP, image not found</A></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfSent:12 title="Date notification was sent">12-04-2017</SPAN></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfDue:12></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1s x57"><SPAN id=N39:NtfFromUser:13></SPAN><BR></TD>
+<TD class="x1s x57"><SPAN id=N39:NtfType:13 title="Type of this notification">AP Invoice Approval</SPAN></TD>
+<TD class="x1s x57"><A id=N39:NtfSubject:13 title="Invoice TEST UNISYS 2553679148 for UNISYS,          $800.00, due on 20-May-2017, CORP, image not found" class=xh href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=31467666&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=dy6oUKJDy8oxd3Wp9TVY6Q..">Invoice TEST UNISYS 2553679148 for UNISYS, $800.00, due on 20-May-2017, CORP, image not found</A></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfSent:13 title="Date notification was sent">12-04-2017</SPAN></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfDue:13></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1s x57"><SPAN id=N39:NtfFromUser:14></SPAN><BR></TD>
+<TD class="x1s x57"><SPAN id=N39:NtfType:14 title="Type of this notification">AP Invoice Approval</SPAN></TD>
+<TD class="x1s x57"><A id=N39:NtfSubject:14 title="Invoice TEST UNISYS 1948129598 for UNISYS,          $800.00, due on 20-May-2017, CORP, image not found" class=xh href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=31467664&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=xb2tawvAwSpsydJHeJU7mg..">Invoice TEST UNISYS 1948129598 for UNISYS, $800.00, due on 20-May-2017, CORP, image not found</A></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfSent:14 title="Date notification was sent">12-04-2017</SPAN></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfDue:14></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1s x57"><SPAN id=N39:NtfFromUser:15></SPAN><BR></TD>
+<TD class="x1s x57"><SPAN id=N39:NtfType:15 title="Type of this notification">AP Invoice Approval</SPAN></TD>
+<TD class="x1s x57"><A id=N39:NtfSubject:15 title="Invoice TEST UNISYS 6378703657 for UNISYS,          $800.00, due on 20-May-2017, CORP, image not found" class=xh href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=31467662&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=iPuNV6y4EIO7FG_7wPhQwg..">Invoice TEST UNISYS 6378703657 for UNISYS, $800.00, due on 20-May-2017, CORP, image not found</A></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfSent:15 title="Date notification was sent">12-04-2017</SPAN></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfDue:15></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1s x57"><SPAN id=N39:NtfFromUser:16></SPAN><BR></TD>
+<TD class="x1s x57"><SPAN id=N39:NtfType:16 title="Type of this notification">AP Invoice Approval</SPAN></TD>
+<TD class="x1s x57"><A id=N39:NtfSubject:16 title="Invoice TEST UNISYS 7894958015 for UNISYS,          $800.00, due on 20-May-2017, CORP, image not found" class=xh href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=31467660&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=f_yAwKhPjXYQ2UslSaBOmA..">Invoice TEST UNISYS 7894958015 for UNISYS, $800.00, due on 20-May-2017, CORP, image not found</A></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfSent:16 title="Date notification was sent">12-04-2017</SPAN></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfDue:16></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1s x57"><SPAN id=N39:NtfFromUser:17></SPAN><BR></TD>
+<TD class="x1s x57"><SPAN id=N39:NtfType:17 title="Type of this notification">AP Invoice Approval</SPAN></TD>
+<TD class="x1s x57"><A id=N39:NtfSubject:17 title="Invoice TEST UNISYS 4230470030 for UNISYS,          $800.00, due on 20-May-2017, CORP, image not found" class=xh href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=31467649&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=K70QlxCA4J-WennYdKkFlQ..">Invoice TEST UNISYS 4230470030 for UNISYS, $800.00, due on 20-May-2017, CORP, image not found</A></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfSent:17 title="Date notification was sent">12-04-2017</SPAN></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfDue:17></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1s x57"><SPAN id=N39:NtfFromUser:18></SPAN><BR></TD>
+<TD class="x1s x57"><SPAN id=N39:NtfType:18 title="Type of this notification">AP Invoice Approval</SPAN></TD>
+<TD class="x1s x57"><A id=N39:NtfSubject:18 title="Invoice TEST UNISYS 1084653190 for UNISYS,          $800.00, due on 20-May-2017, CORP, image not found" class=xh href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=31467647&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=Hla2efGE3B08t0bohT38kg..">Invoice TEST UNISYS 1084653190 for UNISYS, $800.00, due on 20-May-2017, CORP, image not found</A></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfSent:18 title="Date notification was sent">12-04-2017</SPAN></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfDue:18></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1s x57"><SPAN id=N39:NtfFromUser:19></SPAN><BR></TD>
+<TD class="x1s x57"><SPAN id=N39:NtfType:19 title="Type of this notification">AP Invoice Approval</SPAN></TD>
+<TD class="x1s x57"><A id=N39:NtfSubject:19 title="Invoice TEST UNISYS 2583766631 for UNISYS,          $800.00, due on 20-May-2017, CORP, image not found" class=xh href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=31467644&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=RVh6cfVCUrRTfa-H0RcaWg..">Invoice TEST UNISYS 2583766631 for UNISYS, $800.00, due on 20-May-2017, CORP, image not found</A></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfSent:19 title="Date notification was sent">12-04-2017</SPAN></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfDue:19></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1s x57"><SPAN id=N39:NtfFromUser:20></SPAN><BR></TD>
+<TD class="x1s x57"><SPAN id=N39:NtfType:20 title="Type of this notification">AP Invoice Approval</SPAN></TD>
+<TD class="x1s x57"><A id=N39:NtfSubject:20 title="Invoice 6657188705 for AIRMATTE,          $800.00, due on 20-May-2017, CORP, image not found" class=xh href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=31467641&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=cjgoDhMLwJsdHe3ooVFKug..">Invoice 6657188705 for AIRMATTE, $800.00, due on 20-May-2017, CORP, image not found</A></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfSent:20 title="Date notification was sent">12-04-2017</SPAN></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfDue:20></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1s x57"><SPAN id=N39:NtfFromUser:21></SPAN><BR></TD>
+<TD class="x1s x57"><SPAN id=N39:NtfType:21 title="Type of this notification">AP Invoice Approval</SPAN></TD>
+<TD class="x1s x57"><A id=N39:NtfSubject:21 title="Invoice 8434195273 for AIRMATTE,          $800.00, due on 20-May-2017, CORP, image not found" class=xh href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=31467639&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=I3O60ZjJLE5UBNKGDnT5Gw..">Invoice 8434195273 for AIRMATTE, $800.00, due on 20-May-2017, CORP, image not found</A></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfSent:21 title="Date notification was sent">12-04-2017</SPAN></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfDue:21></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1s x57"><SPAN id=N39:NtfFromUser:22></SPAN><BR></TD>
+<TD class="x1s x57"><SPAN id=N39:NtfType:22 title="Type of this notification">AP Invoice Approval</SPAN></TD>
+<TD class="x1s x57"><A id=N39:NtfSubject:22 title="Invoice TEST UNISYS 5674805106 for UNISYS,          $800.00, due on 20-May-2017, CORP, image not found" class=xh href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=31467636&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=CBVRKYcwmEkQr1bOFP33vA..">Invoice TEST UNISYS 5674805106 for UNISYS, $800.00, due on 20-May-2017, CORP, image not found</A></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfSent:22 title="Date notification was sent">12-04-2017</SPAN></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfDue:22></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1s x57"><SPAN id=N39:NtfFromUser:23></SPAN><BR></TD>
+<TD class="x1s x57"><SPAN id=N39:NtfType:23 title="Type of this notification">AP Invoice Approval</SPAN></TD>
+<TD class="x1s x57"><A id=N39:NtfSubject:23 title="Invoice 9224834792 for AIRMATTE,          $800.00, due on 20-May-2017, CORP, image not found" class=xh href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=31467633&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=sihW8V4I5-8baEHWOjhGhg..">Invoice 9224834792 for AIRMATTE, $800.00, due on 20-May-2017, CORP, image not found</A></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfSent:23 title="Date notification was sent">12-04-2017</SPAN></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfDue:23></SPAN><BR></TD></TR>
+<TR>
+<TD class="x1s x57"><SPAN id=N39:NtfFromUser:24></SPAN><BR></TD>
+<TD class="x1s x57"><SPAN id=N39:NtfType:24 title="Type of this notification">AP Invoice Approval</SPAN></TD>
+<TD class="x1s x57"><A id=N39:NtfSubject:24 title="Invoice 1517312408 for AIRMATTE,          $800.00, due on 20-May-2017, CORP, image not found" class=xh href="OA.jsp?OAFunc=FND_WFNTF_DETAILS&amp;NtfId=31467630&amp;addBreadCrumb=Y&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=HuHju7ikV7qsDrW3iYUCeQ..">Invoice 1517312408 for AIRMATTE, $800.00, due on 20-May-2017, CORP, image not found</A></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfSent:24 title="Date notification was sent">12-04-2017</SPAN></TD>
+<TD class="x1s x57" noWrap><SPAN id=N39:NtfDue:24></SPAN><BR></TD></TR></TBODY></TABLE>
+<TABLE role=presentation cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE role=presentation class=x1q cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD width="100%"></TD>
+<TD vAlign=middle align=right>
+<TABLE role=presentation cellSpacing=0 cellPadding=0 summary="" border=0>
+<TBODY>
+<TR>
+<TD vAlign=middle><IMG border=0 alt="Previous functionality disabled" src="/OA_HTML/cabo/images/cache/ctnavpd.gif"></TD>
+<TD>
+<SCRIPT>t(5,1)</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=5 height=1></TD>
+<TD vAlign=middle noWrap><SPAN class=x49>Previous</SPAN></TD>
+<TD>
+<SCRIPT>t(5,1)</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=5 height=1></TD>
+<TD vAlign=middle noWrap><SELECT onchange="_navChoiceSubmit(this, 'DefaultFormName','goto','N39',1,null,'NtfWorklist')" onfocus="this._lastValue = this.selectedIndex" id=M__Ida title="Select record set" class=x8><OPTION selected value=1,25>1-25</OPTION><OPTION value=26,25>More...</OPTION></SELECT><LABEL class=x3f for=M__Ida>Select record set</LABEL>
+<SCRIPT language=javascript>_setSelectIndexById("M__Ida",0)</SCRIPT>
+</TD>
+<TD>
+<SCRIPT>t(5,1)</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=5 height=1></TD>
+<TD vAlign=middle noWrap><A onclick="_navBarSubmit('DefaultFormName', 'goto','N39',1,'266yfOiSZR', '25t1hrzWsh','NtfWorklist');return false" class=x48 href="#">Next 25</A></TD>
+<TD>
+<SCRIPT>t(5,1)</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=5 height=1></TD>
+<TD vAlign=middle><A onclick="_navBarSubmit('DefaultFormName', 'goto','N39',1,'266yfOiSZR', '25t1hrzWsh','NtfWorklist');return false" href="#"><IMG border=0 alt="Select to view next set" src="/OA_HTML/cabo/images/cache/ctnavn.gif"></A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></SPAN><SPAN id=NtfWorklist-hv></SPAN>
+<DIV></DIV>
+<TABLE role=presentation id=vacationRulesTip cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD vAlign=top><IMG alt="" src="/OA_HTML/cabo/images/swan/tip.gif" width=15 height=13></TD>
+<TD class=x5f vAlign=top noWrap>TIP&nbsp;</TD>
+<TD class=x5g vAlign=top width="100%"><A class=OraLinkText href="OA.jsp?page=/oracle/apps/fnd/wf/worklist/webui/RouteRulePG&amp;OAFunc=FND_WFNTF_ROUTE_RULE&amp;addBreadCrumb=Y&amp;_ti=1755348338&amp;oapc=5&amp;oas=deZziZFChNqZvXqz442bZQ..">Vacation Rules</A> - Redirect or auto-respond to notifications.</TD></TR></TBODY></TABLE></SPAN>
+<DIV></DIV>
+<TABLE role=presentation cellSpacing=0 cellPadding=0 summary="" border=0>
+<TBODY>
+<TR>
+<TD width="5%">
+<SCRIPT>t('12')</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=12></TD>
+<TD vAlign=top>
+<TABLE role=presentation cellSpacing=0 cellPadding=0 summary="" border=0>
+<TBODY></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV></DIV></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><!-- oracle.portal.ui.renderer.FlexibleContentRenderer id=NtfContent:  render end --></DIV></TD></TR></TBODY></TABLE></TD><!-- oracle.portal.ui.renderer.FlexibleCellLayoutRenderer id=NtfLayout:  render End --></TR><!-- oracle.portal.ui.renderer.FlexibleRowLayoutRenderer id=favNtfLayout_row_0:  render end --></TBODY></TABLE>
+<TABLE id=favNtfLayout_internalTable21 width="100%">
+<TBODY><!-- oracle.portal.ui.renderer.FlexibleRowLayoutRenderer id=favNtfLayout_row_1:  render start -->
+<TR id=favNtfLayout_row_1 hAlign="left">
+<TD id=favLayout vAlign=top width="60%" align=left>
+<TABLE id=favLayout_internalTable1 width="100%">
+<TBODY>
+<TR id=favLayout_internalTable1_Row1>
+<TD id=favLayout_internalRow1_Col2 vAlign=top align=left>
+<DIV id=favLayout_div style="horizontal-align: left"></DIV></TD></TR></TBODY></TABLE></TD><!-- oracle.portal.ui.renderer.FlexibleCellLayoutRenderer id=favLayout:  render End --></TR><!-- oracle.portal.ui.renderer.FlexibleRowLayoutRenderer id=favNtfLayout_row_1:  render end --></TBODY></TABLE></DIV></TD></TR></TBODY></TABLE></TD><!-- oracle.portal.ui.renderer.FlexibleCellLayoutRenderer id=favNtfLayout:  render End --></TR><!-- oracle.portal.ui.renderer.FlexibleRowLayoutRenderer id=mainLayout_row_0:  render end --></TBODY></TABLE></DIV></TD></TR></TBODY></TABLE><!-- oracle.portal.ui.renderer.FlexibleLayoutRenderer id=mainLayout:  render End -->
+<DIV></DIV><INPUT id=_fwkAbsolutePageName type=hidden value=/oracle/apps/fnd/framework/navigate/webui/NewHomePG:::Pvsh5vs6 name=_fwkAbsolutePageName></DIV></DIV>
+<DIV>
+<DIV>
+<SCRIPT>t(1,9)</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=1 height=9></DIV>
+<DIV>
+<SCRIPT>t(1,10)</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=1 height=10></DIV></DIV></DIV>
+<DIV></DIV>
+<DIV></DIV>
+<DIV></DIV></DIV>
+<TABLE role=presentation class=x70 style="BACKGROUND-IMAGE: url(/OA_HTML/cabo/images/swan/footerBg.gif)" cellSpacing=0 cellPadding=0 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD noWrap align=center>
+<TABLE role=presentation cellSpacing=0 cellPadding=0 align=center summary="" border=0>
+<TBODY>
+<TR>
+<TD align=center><A class=x15 href="/OA_HTML/OA.jsp?_rc=FND_DIAGNOSTICS_PAGE&amp;_ri=0&amp;retainAM=Y&amp;LogRetUrl=%2FOA_HTML%2FOA.jsp%3Fpage%3D%2Foracle%2Fapps%2Ffnd%2Fframework%2Fnavigate%2Fwebui%2FNewHomePG%26homePage%3DY%26transactionid%3D1755348338%26retainAM%3DY%26addBreadCrumb%3DN%26OAMC%3DG%26oas%3Dg-4W0DeFQ_CRKffBUXpJ0w..&amp;_ti=1755348338&amp;oapc=5&amp;menu=Y&amp;oas=y39rx4-kn6WNNLuHQfl4Yg..">Diagnostics</A></TD>
+<TD align=center><A class=x15 href="/OA_HTML/OALogout.jsp?menu=Y">Logout</A></TD>
+<TD align=center><A class=x15 href="/OA_HTML/OA.jsp?page=/oracle/apps/fnd/preferences/webui/PreferencesPG&amp;retainAM=Y&amp;_ti=1755348338&amp;oapc=5&amp;menu=Y&amp;addBreadCrumb=S&amp;OAPF=Y&amp;oas=bKhcAD3ptWcm2JnFapPOIw..">Preferences</A></TD>
+<TD align=center><A class=x15 href="javascript:top.help_window()">Help</A></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD>
+<TABLE role=presentation cellSpacing=2 cellPadding=2 width="100%" summary="" border=0>
+<TBODY>
+<TR>
+<TD class=x14 noWrap align=left><A onclick="submitForm('DefaultFormName',0,{'serverValidate':'1x7XFdOhc',event:'about'});return false;" href="#">About this Page</A></TD>
+<TD>
+<SCRIPT>t('10','10')</SCRIPT>
+<IMG alt="" src="/OA_HTML/cabo/images/swan/t.gif" width=10 height=10></TD>
+<TD class=x13 noWrap align=left><A title="Privacy Statement" href="http://personalize.this.link" target=_blank>Privacy Statement</A></TD>
+<TD class=x12 width="100%" noWrap align=right><SPAN id=N32>Copyright (c) 2006, Oracle. All rights reserved.</SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></SPAN><INPUT id=N39$$unvalidated type=hidden value=falseIc67ZZMK name=N39$$unvalidated><INPUT id=N39$$serverUnvalidated type=hidden value=falsehPcHjjfZ name=N39$$serverUnvalidated><INPUT id=FORM_MAC_LIST type=hidden value=_fwkAbsolutePageName^N39$$unvalidated^N39$$serverUnvalidated^evtSrcRowId^_AM_TX_ID_FIELD^evtSrcRowIdx^_FORM^serverValidate^_FORMEVENT***value;T^size;T@@@FORM_MAC_LIST***@@@partialTargets^event^state^source^FORM_MAC_LISTeA9Aqn39Y6TF5jNpgP_NSw.. name=FORM_MAC_LIST><SPAN id=_DefaultFormName_Postscript><INPUT type=hidden name=_FORMEVENT><INPUT type=hidden name=serverValidate><INPUT type=hidden name=evtSrcRowIdx><INPUT type=hidden name=evtSrcRowId><INPUT type=hidden name=event><INPUT type=hidden name=source><INPUT type=hidden name=value><INPUT type=hidden name=size><INPUT type=hidden name=partialTargets><INPUT type=hidden name=partial><INPUT type=hidden name=state>
+<SCRIPT>var _resetDefaultFormNameNames=["_FORMEVENT","serverValidate","evtSrcRowIdx","evtSrcRowId","event","source","value","size","partialTargets","partial","state"];</SCRIPT>
+
+<SCRIPT>function _DefaultFormNameValidater(form){return true;}</SCRIPT>
+</SPAN>
+<SCRIPT>_submitFormCheck();</SCRIPT>
+</FORM><IFRAME title="Forms Launcher" height=5 src="https://app-layer-oracleebs-test.ds.acc.co.nz:4475/OA_HTML/blank.html" frameBorder=no width=5 name=formsLauncher scrolling=no></IFRAME></SPAN><INPUT disabled id=_pprSaveLib type=hidden><INPUT disabled id=_pprSaveScript type=hidden><INPUT disabled id=_pprSavePage type=hidden>
+<SCRIPT>var _uixDoneMessage="Done."</SCRIPT>
+
+<SCRIPT>document.body.style.marginLeft="0px";document.body.style.marginRight="0px";document.body.style.marginTop="0px";</SCRIPT>
+<!-- Created by Oracle UIX , laf:swanEXTN (swanEXTN) --> 
+<UL id=FavList class=submenustyle _master="topmenubar" _pos="0"></UL></BODY></HTML>
